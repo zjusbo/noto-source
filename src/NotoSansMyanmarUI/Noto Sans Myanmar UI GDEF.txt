@@ -176,7 +176,6 @@ da_tlg	1
 dha_tlg	1
 ba_tlg	1
 bha_tlg	1
-medial_ya.alt4	1
 ka_dot	1
 ga_dot	1
 nga_dot	1

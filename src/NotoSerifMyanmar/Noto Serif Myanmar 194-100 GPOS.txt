@@ -12,37 +12,13 @@ script table end
 
 
 feature table begin
-0	kern	0, 6
-1	mark	1, 2, 3
-2	mkmk	4, 5
+0	kern	5
+1	mark	0, 1, 2
+2	mkmk	3, 4
 
 feature table end
 
-lookup	0	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	sp1	20
-x advance	sp2	20
-x advance	sp3	20
-x advance	sp4	20
-x advance	sp5	20
-x advance	sp6	20
-x advance	sp7	20
-x advance	sp8	20
-x advance	sp9	20
-x advance	sp10	20
-x advance	sp11	20
-x advance	sp12	20
-x advance	sp13	20
-
-lookup end
-
-
-lookup	1	mark to base
+lookup	0	mark to base
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -354,7 +330,7 @@ base	_aa.alt	0	87,611
 lookup end
 
 
-lookup	2	mark to base
+lookup	1	mark to base
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -702,7 +678,7 @@ base	_aa.alt	0	98,0
 lookup end
 
 
-lookup	3	mark to base
+lookup	2	mark to base
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -1077,7 +1053,7 @@ base	_aa.alt	0	98,0
 lookup end
 
 
-lookup	4	mark to mark
+lookup	3	mark to mark
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -1227,7 +1203,7 @@ base	ga_khm.sub	0	-314,-542
 lookup end
 
 
-lookup	5	mark to mark
+lookup	4	mark to mark
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -1367,7 +1343,7 @@ base	ga_khm.sub	0	-314,-542
 lookup end
 
 
-lookup	6	chained
+lookup	5	chained
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -1618,14 +1594,14 @@ _aa_ai	5
 _aa.alt	5
 class definition end
 
-class-chain		4, 1, 3		3, 7
-class-chain		4, 2, 3		3, 7
-class-chain	2, 1	5, 3		2, 8
+class-chain		4, 1, 3		3, 6
+class-chain		4, 2, 3		3, 6
+class-chain	2, 1	5, 3		2, 7
 
 lookup end
 
 
-lookup	7	single
+lookup	6	single
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -1638,7 +1614,7 @@ x placement	dot_below	-65
 lookup end
 
 
-lookup	8	single
+lookup	7	single
 
 RightToLeft	no
 IgnoreBaseGlyphs	no

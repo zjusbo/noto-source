@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -9,7 +9,7 @@
 		<key>GPOS</key>
 		<string>Noto Sans Myanmar 26-100 GPOS.txt</string>
 		<key>GSUB</key>
-		<string>Noto Sans Myanmar 26 90-70 100 GSUB.txt</string>
+		<string>Noto Sans Myanmar 26 90 151 190-100 GSUB.txt</string>
 	</dict>
 	
 	<key>NotoSansMyanmar-Regular</key>
@@ -19,7 +19,7 @@
 		<key>GPOS</key>
 		<string>Noto Sans Myanmar 90-100 GPOS.txt</string>
 		<key>GSUB</key>
-		<string>Noto Sans Myanmar 26 90-70 100 GSUB.txt</string>
+		<string>Noto Sans Myanmar 26 90 151 190-100 GSUB.txt</string>
 	</dict>
 
 	<key>NotoSansMyanmar-SemiBold</key>
@@ -29,7 +29,7 @@
 		<key>GPOS</key>
 		<string>Noto Sans Myanmar 151-100 GPOS.txt</string>
 		<key>GSUB</key>
-		<string>Noto Sans Myanmar 151 190-70 100 GSUB.txt</string>
+		<string>Noto Sans Myanmar 26 90 151 190-100 GSUB.txt</string>
 	</dict>
 
 	<key>NotoSansMyanmar-Bold</key>
@@ -39,7 +39,7 @@
 		<key>GPOS</key>
 		<string>Noto Sans Myanmar 190-100 GPOS.txt</string>
 		<key>GSUB</key>
-		<string>Noto Sans Myanmar 151 190-70 100 GSUB.txt</string>
+		<string>Noto Sans Myanmar 26 90 151 190-100 GSUB.txt</string>
 	</dict>
 
 	<key>NotoSansMyanmar-CondensedLight</key>
@@ -49,7 +49,7 @@
 		<key>GPOS</key>
 		<string>Noto Sans Myanmar 26-70 GPOS.txt</string>
 		<key>GSUB</key>
-		<string>Noto Sans Myanmar 26 90-70 100 GSUB.txt</string>
+		<string>Noto Sans Myanmar 26 90 151 190-70 GSUB.txt</string>
 	</dict>
 		
 	<key>NotoSansMyanmar-Condensed</key>
@@ -59,7 +59,7 @@
 		<key>GPOS</key>
 		<string>Noto Sans Myanmar 90-70 GPOS.txt</string>
 		<key>GSUB</key>
-		<string>Noto Sans Myanmar 26 90-70 100 GSUB.txt</string>
+		<string>Noto Sans Myanmar 26 90 151 190-70 GSUB.txt</string>
 	</dict>
 
 	<key>NotoSansMyanmar-CondensedSemiBold</key>
@@ -69,7 +69,7 @@
 		<key>GPOS</key>
 		<string>Noto Sans Myanmar 151-70 GPOS.txt</string>
 		<key>GSUB</key>
-		<string>Noto Sans Myanmar 151 190-70 100 GSUB.txt</string>
+		<string>Noto Sans Myanmar 26 90 151 190-70 GSUB.txt</string>
 	</dict>
 		
 	<key>NotoSansMyanmar-CondensedBold</key>
@@ -79,7 +79,7 @@
 		<key>GPOS</key>
 		<string>Noto Sans Myanmar 190-70 GPOS.txt</string>
 		<key>GSUB</key>
-		<string>Noto Sans Myanmar 151 190-70 100 GSUB.txt</string>
+		<string>Noto Sans Myanmar 26 90 151 190-70 GSUB.txt</string>
 	</dict>
 		
 </dict>

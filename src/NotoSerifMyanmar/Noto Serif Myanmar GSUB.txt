@@ -1037,6 +1037,7 @@ jha_khm_dot	4
 fa_khm_dot	4
 na_dot_below	5
 nya	6
+nya.narrow	6
 nnya	6
 tta	6
 tta.alt	6
@@ -1434,7 +1435,6 @@ gha_khm_dot.sub2	1
 ga_khm.sub	1
 ga_khm.sub2	1
 jha	2
-nya.narrow	2
 nya.notail	2
 tta	2
 tta.alt	2
@@ -1635,6 +1635,7 @@ na	7
 nya	8
 nnya	9
 na.alt	10
+nya.narrow	11
 class definition end
 
 class definition begin
@@ -1754,7 +1755,9 @@ nna.sub	2
 nna.sub2	2
 ta.sub	2
 ta.sub2	2
+ta_wa.sub	2
 ta_wa.sub2	2
+ta_wa_ovl.sub	2
 ta_wa_ovl.sub2	2
 tha.sub	2
 tha.sub2	2
@@ -1884,6 +1887,8 @@ medial_ha_obl_u	3
 medial_ha_obl_uu	3
 medial_ha_obl_u_dot	3
 medial_ha_obl_uu_dot	3
+medial_ha.sub2	3
+medial_ha_obl.sub2	3
 medial_ha_u	3
 medial_ha_uu	3
 medial_ha_dot	3
@@ -1896,6 +1901,116 @@ _u_dot.alt	3
 _uu	3
 _uu_dot	3
 _uu_dot.alt	3
+dot_below	3
+jha	4
+nya	4
+nya.narrow	4
+nya.notail	4
+nnya	4
+nnya.halftail	4
+nnya.thirdtail	4
+nnya.notail	4
+great_nnya	4
+tta	4
+tta.alt	4
+ttha	4
+ttha.clipped	4
+dda	4
+na	4
+ra	4
+ra.alt	4
+ra.alt2	4
+lla	4
+lla.notail	4
+nga_mon	4
+jha_mon	4
+bbe_mon	4
+sha_skn	4
+cha_shw	4
+sha_shw	4
+nya_shn	4
+fa_shn	4
+ha_shn	4
+ha_shn_u	4
+ha_shn_uu	4
+ha_shn_medial_wa	4
+ha_shn_medial_ha	4
+nya_khm_dot	4
+ha_khm	4
+ha_khm_medial_wa	4
+ha_khm_uu	4
+nya_tlg	4
+fa_tlg	4
+ra_atn	4
+i_m	4
+ii	4
+u_m	4
+uu	4
+e_mon	4
+o_m	4
+au	4
+qay_khm	4
+qn_khm	4
+hm_khm	4
+sone_shn	4
+hathi_skn	4
+pwa_wpk	4
+ywa_epk	4
+ghwa_epk	4
+ca_nya	4
+ja_nya	4
+nya_ca	4
+nya_ca_ya	4
+nya_cha	4
+nya_cha_ya	4
+nya_ja	4
+nya_jha	4
+nnya_medial_ha_u	4
+nnya_medial_ha_uu	4
+tta.littletail	4
+tta.alt.littletail	4
+tta_tta	4
+tta_medial_ha	4
+tta_ttha	4
+ttha_medial_ha	4
+dda.littletail	4
+dda_ga	4
+dda_dda	4
+dda_ddha	4
+dda_ma	4
+dda_medial_ha	4
+dda_wa	4
+nna_tta	4
+nna_ttha	4
+nna_dda	4
+da_dha_na	4
+na_dot_below	4
+ra_u	4
+ra_uu	4
+ra_medial_ha	4
+ra_medial_ha_u	4
+ra_medial_ha_uu	4
+ra_medial_wa	4
+ra_medial_wa_ha	4
+ra_medial_ha_obl	4
+ra_medial_ha_obl_u	4
+ra_medial_ha_obl_uu	4
+ra_medial_wa_ovl	4
+ra_medial_wa_ovl_ha	4
+lla.littletail	4
+lla_lla	4
+lla_medial_ha	4
+ssa_tta	4
+ssa_tta.littletail	4
+ssa_tta_medial_ra	4
+ssa_ttha	4
+ssa_nna	4
+cha_shw_medial_wa	4
+sha_shw_medial_wa	4
+nya_shn_dot	4
+ra_atn_dot	4
+nya_khm	4
+na.for_aa	4
 class definition end
 
 class-chain		2, 15		2, 32
@@ -1909,11 +2024,11 @@ class-chain		4, 15		2, 34	1, 34
 class-chain		5	2	1, 33
 class-chain		5	1	1, 33
 class-chain		5	3	1, 32
+class-chain		5	4	1, 32
 class-chain		5, 15		2, 32	1, 33
 class-chain	4	5		1, 32
 class-chain		6	1	1, 34
 class-chain		6	2	1, 33
-class-chain		6	3	1, 34
 class-chain		6, 15		1, 32
 class-chain		7, 15		2, 32
 class-chain	4	8		1, 32
@@ -1934,11 +2049,13 @@ class-chain	6	12		1, 42
 class-chain	8	12		1, 42
 class-chain	9	12		1, 42
 class-chain	10, 4	12		1, 42
+class-chain	11	12		1, 42
 class-chain	5, 4	12		1, 42
 class-chain	2	13		1, 42
 class-chain	8	13		1, 42
 class-chain	9	13		1, 42
 class-chain	10, 4	13		1, 42
+class-chain	11	13		1, 42
 class-chain	5, 4	13		1, 43
 class-chain	1, 1	15		1, 35
 class-chain	1	15		1, 32
@@ -2064,6 +2181,8 @@ ttha.sub	2
 dda.sub	2
 nna.sub	2
 ta.sub	2
+ta_wa.sub	2
+ta_wa_ovl.sub	2
 tha.sub	2
 bha.sub	2
 ya.sub	2
@@ -2864,6 +2983,8 @@ ttha.sub	8
 dda.sub	8
 nna.sub	8
 ta.sub	8
+ta_wa.sub	8
+ta_wa_ovl.sub	8
 tha.sub	8
 bha.sub	8
 ya.sub	8
@@ -2914,6 +3035,8 @@ dda.sub2	9
 ddha.sub2	9
 nna.sub2	9
 ta.sub2	9
+ta_wa.sub2	9
+ta_wa_ovl.sub2	9
 tha.sub2	9
 da.sub2	9
 dha.sub2	9
@@ -3519,8 +3642,10 @@ IgnoreLigatures	no
 IgnoreMarks	no
 MarkAttachmentType	2
 
-nnya_medial_ha_u	nnya.thirdtail	medial_ha_u
-nnya_medial_ha_uu	nnya.thirdtail	medial_ha_uu
+nnya_medial_ha_u	nnya	medial_ha.sub2	_u_spacing
+nnya_medial_ha_uu	nnya	medial_ha.sub2	_uu_spacing
+nnya_medial_ha_u	nnya	medial_ha_obl.sub2	_u_spacing
+nnya_medial_ha_uu	nnya	medial_ha_obl.sub2	_uu_spacing
 ra_medial_wa	ra	medial_wa
 ra_medial_wa_ovl	ra	medial_wa_ovl
 ra_medial_wa_ha	ra	medial_wa_ha
@@ -3723,6 +3848,7 @@ fa_khm_dot	1
 nine_m	2
 jha	2
 nya	2
+nya.narrow	2
 nnya	2
 tta	2
 ttha	2

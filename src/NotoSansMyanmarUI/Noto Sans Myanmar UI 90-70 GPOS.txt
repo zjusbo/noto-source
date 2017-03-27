@@ -11,9 +11,9 @@ script table end
 
 
 feature table begin
-0	kern	0, 1, 29
-1	mark	33, 34, 35
-2	mkmk	36
+0	kern	0
+1	mark	8, 9, 10
+2	mkmk	11
 
 feature table end
 
@@ -23,3379 +23,11 @@ RightToLeft	no
 IgnoreBaseGlyphs	no
 IgnoreLigatures	no
 IgnoreMarks	no
-MarkAttachmentType	2
-
-class definition begin
-kha	1
-ga	1
-nga	1
-ca	1
-ja	1
-ddha	1
-da	1
-dha	1
-na	1
-pa	1
-pha	1
-ba	1
-ma	1
-wa	1
-e_m	1
-sha_skt	1
-ssa_skt	1
-vocR_skt	1
-vocRR_skt	1
-vocL_skt	1
-vocLL_skt	1
-bba_mon	1
-tha_wpk	1
-pwa_wpk	1
-ka_shn	1
-kha_shn	1
-ga_shn	1
-ba_shn	1
-ha_shn	1
-fa_rpg	1
-cha_khm	1
-na_khm	1
-fa_khm	1
-ra_khm	1
-na.alt	1
-uni25CC	1
-gha_shn	1
-nna_tlg	1
-ba_tlg	1
-ga_dot	1
-nga_dot	1
-pa_dot	1
-ma_dot	1
-wa_dot	1
-ka_shn_dot	1
-cha_khm_dot	1
-na_khm_dot	1
-fa_khm_dot	1
-ka	2
-gha	2
-cha	2
-nna	2
-ta	2
-tha	2
-bha	2
-ya	2
-la	2
-sa	2
-ha	2
-a_m	2
-a_shn	2
-great_sa	2
-nna_epk	2
-ca_shn	2
-za_shn	2
-da_shn	2
-na_shn	2
-pha_shn	2
-tha_shn	2
-ga_khm	2
-ca_khm	2
-ja_khm	2
-jha_khm	2
-nya_khm	2
-tta_khm	2
-ttha_khm	2
-dda_khm	2
-ddha_khm	2
-dha_khm	2
-sa_khm	2
-hha_khm	2
-xa_khm	2
-za_khm	2
-sha_shw	2
-cha_shn	2
-jha_shn	2
-nna_shn	2
-bha_shn	2
-nya_tlg	2
-fa_tlg	2
-ga_tlg	2
-gha_tlg	2
-ja_tlg	2
-sa_tlg	2
-dda_tlg	2
-ddha_tlg	2
-lla_tlg	2
-da_tlg	2
-dha_tlg	2
-bha_tlg	2
-ka_dot	2
-ta_dot	2
-tha_dot	2
-ya_dot	2
-la_dot	2
-a_shn_dot	2
-ca_shn_dot	2
-tha_shn_dot	2
-ga_khm_dot	2
-ca_khm_dot	2
-ja_khm_dot	2
-jha_khm_dot	2
-tta_khm_dot	2
-sa_khm_dot	2
-ka.sub	3
-gha.sub	3
-cha.sub	3
-nya.sub	3
-nnya.sub	3
-tta.sub	3
-ttha.sub	3
-dda.sub	3
-nna.sub	3
-ta.sub	3
-tha.sub	3
-bha.sub	3
-ya.sub	3
-la.sub	3
-sa.sub	3
-ha.sub	3
-lla.sub	3
-a_m.sub	3
-a_shn.sub	3
-great_sa.sub	3
-nna_epk.sub	3
-ywa_epk.sub	3
-ghwa_epk.sub	3
-ca_shn.sub	3
-za_shn.sub	3
-nya_shn.sub	3
-da_shn.sub	3
-na_shn.sub	3
-pha_shn.sub	3
-fa_shn.sub	3
-tha_shn.sub	3
-ga_khm.sub	3
-ka_dot.sub	3
-ta_dot.sub	3
-tha_dot.sub	3
-tha_dot.sub2	3
-ya_dot.sub	3
-la_dot.sub	3
-a_shn_dot.sub	3
-ca_shn_dot.sub	3
-nya_shn_dot.sub	3
-tha_shn_dot.sub	3
-ga_khm_dot.sub	3
-ka.sub2	4
-kha.sub2	4
-ga.sub2	4
-gha.sub2	4
-nga.sub2	4
-ca.sub2	4
-cha.sub2	4
-ja.sub2	4
-nya.sub2	4
-nnya.sub2	4
-tta.sub2	4
-ttha.sub2	4
-dda.sub2	4
-ddha.sub2	4
-nna.sub2	4
-ta.sub2	4
-tha.sub2	4
-da.sub2	4
-dha.sub2	4
-na.sub2	4
-pa.sub2	4
-pha.sub2	4
-ba.sub2	4
-bha.sub2	4
-ma.sub2	4
-ya.sub2	4
-ra.sub2	4
-la.sub2	4
-sa.sub2	4
-ha.sub2	4
-lla.sub2	4
-a_m.sub2	4
-a_shn.sub2	4
-e_m.sub2	4
-great_sa.sub2	4
-sha_skt.sub2	4
-ssa_skt.sub2	4
-vocR_skt.sub2	4
-vocRR_skt.sub2	4
-nga_mon.sub2	4
-jha_mon.sub2	4
-bba_mon.sub2	4
-bbe_mon.sub2	4
-sha_skn.sub2	4
-tha_wpk.sub2	4
-pwa_wpk.sub2	4
-nna_epk.sub2	4
-ywa_epk.sub2	4
-ghwa_epk.sub2	4
-ka_shn.sub2	4
-kha_shn.sub2	4
-ga_shn.sub2	4
-ca_shn.sub2	4
-za_shn.sub2	4
-nya_shn.sub2	4
-da_shn.sub2	4
-na_shn.sub2	4
-pha_shn.sub2	4
-fa_shn.sub2	4
-ba_shn.sub2	4
-tha_shn.sub2	4
-ha_shn.sub2	4
-fa_rpg.sub2	4
-ga_khm.sub2	4
-ka_dot.sub2	4
-ta_dot.sub2	4
-ya_dot.sub2	4
-la_dot.sub2	4
-a_shn_dot.sub2	4
-ca_shn_dot.sub2	4
-nya_shn_dot.sub2	4
-tha_shn_dot.sub2	4
-ga_khm_dot.sub2	4
-nnya	5
-tta	5
-ttha	5
-lla	5
-ii	5
-u_m	5
-uu	5
-e_mon	5
-o_m	5
-bbe_mon	5
-nya.narrow	5
-tta_tta	5
-tta_ttha	5
-dda_dda	5
-lla_lla	5
-ssa_ttha	5
-cha_shw	5
-jha	6
-dda	6
-nga_mon	6
-jha_mon	6
-sha_skn	6
-ssa_dda	6
-jha.sub	8
-medial_ya_ha	8
-medial_ya.alt1	8
-medial_ya_wa_ha	8
-medial_ya_wa	8
-medial_ya	8
-medial_ya.alt2	8
-medial_ya_wa_ha_ovl	8
-medial_ya_wa_ovl	8
-medial_ya.alt3	8
-medial_ya_ha.alt	8
-medial_ya.alt4	8
-ra	9
-ra.alt2	9
-ra_rsbwide220	9
-ra_rsbwide150.alt2	9
-medial_wa_ha_dot	12
-medial_wa_dot	12
-medial_ha_u_dot	12
-_uu_dot	12
-medial_ha_dot	13
-_u_dot	13
-medial_ha_uu	14
-medial_ha_uu_dot	15
-medial_ha_obl_uu	17
-medial_ha_obl_uu_dot	19
-medial_ha_dot_obl	20
-_uu_dot.alt	20
-medial_wa_ha_ovl	20
-medial_wa_ha_dot_ovl	20
-medial_ha_obl	21
-dot_below	22
-medial_ha_obl.sub2	22
-dot_below_pr	22
-_u_dot_spacing.alt	23
-_uu_dot_spacing.alt	23
-_u_dot_spacing_rsbwide.alt	23
-_uu_dot_spacing_rsbwide.alt	23
-medial_ra_bt	24
-medial_ra_bt.w2	24
-medial_ra_bt3.w2	24
-medial_ra_bt2.w2	24
-medial_ra_tt_bt	24
-medial_ra_tt_bt.w2	24
-medial_ra_tt_bt3	24
-medial_ra_tt_bt2.w2	24
-medial_ra_bt.w2_5	24
-medial_ra_tt_bt.w2_5	24
-medial_ra_bt.w3	24
-medial_ra_tt_bt.w3	24
-medial_ra_bt.w1_5	24
-medial_ra_tt_bt.w1_5	24
-medial_ra_bt3	24
-medial_ra_bt2.w1_5	24
-medial_ra_bt2.w2_5	24
-medial_ra_tt_bt2.w2_5	24
-medial_ra_bt2.w3	24
-medial_ra_tt_bt2.w3	24
-medial_ra_tt_bt2.w1_5	24
-medial_ra	25
-medial_ra_wa	25
-medial_ra_wa.w2	25
-medial_ra_wa_tt	25
-medial_ra_wa_tt.w2	25
-medial_ra.w2	25
-medial_ra_tt	25
-medial_ra_tt.w2	25
-medial_ra_wa_ha	25
-medial_ra_wa_ha.w2	25
-medial_ra_wa_ha_tt	25
-medial_ra_wa_ha_tt.w2	25
-medial_ra.w2_5	25
-medial_ra_tt.w2_5	25
-medial_ra_wa_ovl	25
-medial_ra_wa_ovl.w2	25
-medial_ra_wa_ovl_tt	25
-medial_ra_wa_ovl_tt.w2	25
-medial_ra_wa_ha_ovl	25
-medial_ra_wa_ha_ovl.w2	25
-medial_ra_wa_ha_ovl_tt	25
-medial_ra_wa_ha_ovl_tt.w2	25
-medial_ra_wa.w2_5	25
-medial_ra_wa_ovl.w2_5	25
-medial_ra_wa_ovl_tt.w2_5	25
-medial_ra_wa_ha_ovl.w2_5	25
-medial_ra_wa_ha_ovl_tt.w2_5	25
-medial_ra_wa_tt.w2_5	25
-medial_ra_wa_tt.w1_5	25
-medial_ra_wa_ha_tt.w2_5	25
-medial_ra.w3	25
-medial_ra_tt.w3	25
-medial_ra.w1_5	25
-medial_ra_tt.w1_5	25
-medial_ra_wa_ha_tt.w1_5	25
-medial_ra_wa_ha.w2_5	25
-medial_ra_wa.w3	25
-medial_ra_wa_ha.w3	25
-medial_ra_wa.w1_5	25
-medial_ra_wa_ha.w1_5	25
-medial_ra_wa_ovl.w1_5	25
-medial_ra_wa_ha_ovl.w1_5	25
-medial_ra_wa_ha_ovl_tt.w1_5	25
-medial_ra_wa_tt.w3	25
-medial_ra_wa_ha_tt.w3	25
-medial_ra_wa_ovl.w3	25
-medial_ra_wa_ovl_tt.w3	25
-medial_ra_wa_ha_ovl.w3	25
-medial_ra_wa_ha_ovl_tt.w3	25
-medial_ra_wa_ovl_tt.w1_5	25
-_medialNa_mon	26
-_medialMa_mon	26
-_medialLa_mon	26
-kha.sub	26
-ga.sub	26
-nga.sub	26
-ca.sub	26
-ja.sub	26
-ddha.sub	26
-da.sub	26
-dha.sub	26
-na.sub	26
-pa.sub	26
-pha.sub	26
-ba.sub	26
-ma.sub	26
-ra.sub	26
-e_m.sub	26
-sha_skt.sub	26
-ssa_skt.sub	26
-vocR_skt.sub	26
-vocRR_skt.sub	26
-nga_mon.sub	26
-jha_mon.sub	26
-bba_mon.sub	26
-bbe_mon.sub	26
-sha_skn.sub	26
-tha_wpk.sub	26
-pwa_wpk.sub	26
-ka_shn.sub	26
-kha_shn.sub	26
-ga_shn.sub	26
-ba_shn.sub	26
-ha_shn.sub	26
-fa_rpg.sub	26
-ga_dot.sub	26
-nga_dot.sub	26
-pa_dot.sub	26
-ma_dot.sub	26
-ka_shn_dot.sub	26
-class definition end
-
-lookaheadclass definition begin
-kha	1
-ga	1
-nga	1
-ca	1
-ja	1
-ddha	1
-da	1
-dha	1
-na	1
-pa	1
-pha	1
-ba	1
-ma	1
-wa	1
-e_m	1
-sha_skt	1
-ssa_skt	1
-vocR_skt	1
-vocRR_skt	1
-vocL_skt	1
-vocLL_skt	1
-bba_mon	1
-tha_wpk	1
-pwa_wpk	1
-ka_shn	1
-kha_shn	1
-ga_shn	1
-ba_shn	1
-ha_shn	1
-fa_rpg	1
-cha_khm	1
-na_khm	1
-fa_khm	1
-ra_khm	1
-na.alt	1
-uni25CC	1
-gha_shn	1
-nna_tlg	1
-ba_tlg	1
-ga_dot	1
-nga_dot	1
-pa_dot	1
-ma_dot	1
-wa_dot	1
-ka_shn_dot	1
-cha_khm_dot	1
-na_khm_dot	1
-fa_khm_dot	1
-ka	2
-gha	2
-cha	2
-nna	2
-ta	2
-tha	2
-bha	2
-ya	2
-la	2
-sa	2
-ha	2
-a_m	2
-a_shn	2
-great_sa	2
-nna_epk	2
-ca_shn	2
-za_shn	2
-da_shn	2
-na_shn	2
-pha_shn	2
-tha_shn	2
-ga_khm	2
-ca_khm	2
-ja_khm	2
-jha_khm	2
-nya_khm	2
-tta_khm	2
-ttha_khm	2
-dda_khm	2
-ddha_khm	2
-dha_khm	2
-sa_khm	2
-hha_khm	2
-xa_khm	2
-za_khm	2
-sha_shw	2
-cha_shn	2
-jha_shn	2
-nna_shn	2
-bha_shn	2
-nya_tlg	2
-fa_tlg	2
-ga_tlg	2
-gha_tlg	2
-ja_tlg	2
-sa_tlg	2
-dda_tlg	2
-ddha_tlg	2
-lla_tlg	2
-da_tlg	2
-dha_tlg	2
-bha_tlg	2
-ka_dot	2
-ta_dot	2
-tha_dot	2
-ya_dot	2
-la_dot	2
-a_shn_dot	2
-ca_shn_dot	2
-tha_shn_dot	2
-ga_khm_dot	2
-ca_khm_dot	2
-ja_khm_dot	2
-jha_khm_dot	2
-tta_khm_dot	2
-sa_khm_dot	2
-ka.sub	3
-gha.sub	3
-cha.sub	3
-nya.sub	3
-nnya.sub	3
-tta.sub	3
-ttha.sub	3
-dda.sub	3
-nna.sub	3
-ta.sub	3
-tha.sub	3
-bha.sub	3
-ya.sub	3
-la.sub	3
-sa.sub	3
-ha.sub	3
-lla.sub	3
-a_m.sub	3
-a_shn.sub	3
-great_sa.sub	3
-nna_epk.sub	3
-ywa_epk.sub	3
-ghwa_epk.sub	3
-ca_shn.sub	3
-za_shn.sub	3
-nya_shn.sub	3
-da_shn.sub	3
-na_shn.sub	3
-pha_shn.sub	3
-fa_shn.sub	3
-tha_shn.sub	3
-ga_khm.sub	3
-ka_dot.sub	3
-ta_dot.sub	3
-tha_dot.sub	3
-ya_dot.sub	3
-la_dot.sub	3
-a_shn_dot.sub	3
-ca_shn_dot.sub	3
-nya_shn_dot.sub	3
-tha_shn_dot.sub	3
-ga_khm_dot.sub	3
-ka.sub2	4
-kha.sub2	4
-ga.sub2	4
-gha.sub2	4
-nga.sub2	4
-ca.sub2	4
-cha.sub2	4
-ja.sub2	4
-nya.sub2	4
-nnya.sub2	4
-tta.sub2	4
-ttha.sub2	4
-dda.sub2	4
-ddha.sub2	4
-nna.sub2	4
-ta.sub2	4
-tha.sub2	4
-da.sub2	4
-dha.sub2	4
-na.sub2	4
-pa.sub2	4
-pha.sub2	4
-ba.sub2	4
-bha.sub2	4
-ma.sub2	4
-ya.sub2	4
-ra.sub2	4
-la.sub2	4
-sa.sub2	4
-ha.sub2	4
-lla.sub2	4
-a_m.sub2	4
-a_shn.sub2	4
-e_m.sub2	4
-great_sa.sub2	4
-sha_skt.sub2	4
-ssa_skt.sub2	4
-vocR_skt.sub2	4
-vocRR_skt.sub2	4
-nga_mon.sub2	4
-jha_mon.sub2	4
-bba_mon.sub2	4
-bbe_mon.sub2	4
-sha_skn.sub2	4
-tha_wpk.sub2	4
-pwa_wpk.sub2	4
-nna_epk.sub2	4
-ywa_epk.sub2	4
-ghwa_epk.sub2	4
-ka_shn.sub2	4
-kha_shn.sub2	4
-ga_shn.sub2	4
-ca_shn.sub2	4
-za_shn.sub2	4
-nya_shn.sub2	4
-da_shn.sub2	4
-na_shn.sub2	4
-pha_shn.sub2	4
-fa_shn.sub2	4
-ba_shn.sub2	4
-tha_shn.sub2	4
-ha_shn.sub2	4
-fa_rpg.sub2	4
-ga_khm.sub2	4
-ka_dot.sub2	4
-ta_dot.sub2	4
-tha_dot.sub2	4
-ya_dot.sub2	4
-la_dot.sub2	4
-a_shn_dot.sub2	4
-ca_shn_dot.sub2	4
-nya_shn_dot.sub2	4
-tha_shn_dot.sub2	4
-ga_khm_dot.sub2	4
-tta	5
-ttha	5
-lla	5
-ii	5
-u_m	5
-uu	5
-e_mon	5
-o_m	5
-bbe_mon	5
-tta_tta	5
-tta_ttha	5
-dda_dda	5
-lla_lla	5
-ssa_ttha	5
-cha_shw	5
-jha	6
-dda	6
-nga_mon	6
-jha_mon	6
-sha_skn	6
-ssa_dda	6
-nya	7
-nnya	7
-hathi_skn	7
-ra_atn	7
-nya.narrow	7
-nya.notail	7
-nnya.notail	7
-lla.notail	7
-ra_atn_dot	7
-jha.sub	8
-medial_ya_ha	8
-medial_ya.alt1	8
-medial_ya_wa_ha	8
-medial_ya_wa	8
-medial_ya	8
-medial_ya.alt2	8
-medial_ya_wa_ha_ovl	8
-medial_ya_wa_ovl	8
-medial_ya.alt3	8
-medial_ya_ha.alt	8
-medial_ya.alt4	8
-ra	9
-ra.alt2	9
-ra_rsbwide220	9
-ra_rsbwide150.alt2	9
-i_m	10
-medial_wa	11
-medial_wa_ovl	11
-medial_ha	11
-medial_wa_ha_dot	12
-medial_wa_dot	12
-medial_ha_u_dot	12
-_uu_dot	12
-medial_ha_dot	13
-_u_dot	13
-medial_ha_uu	14
-medial_ha_uu_dot	15
-ha_khm	16
-medial_ha_obl_uu	17
-medial_wa_dot_ovl	18
-medial_ha_dot_obl	18
-medial_ha_obl_u	18
-medial_ha_obl_u_dot	18
-medial_ha_obl_uu_dot	19
-_uu_dot.alt	20
-medial_wa_ha_ovl	20
-medial_wa_ha_dot_ovl	20
-medial_ha_obl	21
-dot_below	22
-medial_ha_obl.sub2	22
-dot_below_pr	22
-_u_dot_spacing.alt	23
-_uu_dot_spacing.alt	23
-_u_dot_spacing_rsbwide.alt	23
-_uu_dot_spacing_rsbwide.alt	23
-medial_ra_bt	24
-medial_ra_bt.w2	24
-medial_ra_bt3.w2	24
-medial_ra_bt2.w2	24
-medial_ra_tt_bt	24
-medial_ra_tt_bt.w2	24
-medial_ra_tt_bt3	24
-medial_ra_tt_bt2.w2	24
-medial_ra_bt.w2_5	24
-medial_ra_tt_bt.w2_5	24
-medial_ra_bt.w3	24
-medial_ra_tt_bt.w3	24
-medial_ra_bt.w1_5	24
-medial_ra_tt_bt.w1_5	24
-medial_ra_bt3	24
-medial_ra_bt2.w1_5	24
-medial_ra_bt2.w2_5	24
-medial_ra_tt_bt2.w2_5	24
-medial_ra_bt2.w3	24
-medial_ra_tt_bt2.w3	24
-medial_ra	25
-medial_ra_wa	25
-medial_ra_wa.w2	25
-medial_ra_wa_tt	25
-medial_ra_wa_tt.w2	25
-medial_ra.w2	25
-medial_ra_tt	25
-medial_ra_tt.w2	25
-medial_ra_wa_ha	25
-medial_ra_wa_ha.w2	25
-medial_ra_wa_ha_tt	25
-medial_ra_wa_ha_tt.w2	25
-medial_ra.w2_5	25
-medial_ra_tt.w2_5	25
-medial_ra_wa_ovl	25
-medial_ra_wa_ovl.w2	25
-medial_ra_wa_ovl_tt	25
-medial_ra_wa_ovl_tt.w2	25
-medial_ra_wa_ha_ovl	25
-medial_ra_wa_ha_ovl.w2	25
-medial_ra_wa_ha_ovl_tt	25
-medial_ra_wa_ha_ovl_tt.w2	25
-medial_ra_wa.w2_5	25
-medial_ra_wa_ovl.w2_5	25
-medial_ra_wa_ovl_tt.w2_5	25
-medial_ra_wa_ha_ovl.w2_5	25
-medial_ra_wa_ha_ovl_tt.w2_5	25
-medial_ra_wa_tt.w2_5	25
-medial_ra_wa_tt.w1_5	25
-medial_ra_wa_ha_tt.w2_5	25
-medial_ra.w3	25
-medial_ra_tt.w3	25
-medial_ra.w1_5	25
-medial_ra_tt.w1_5	25
-medial_ra_wa_ha_tt.w1_5	25
-medial_ra_wa_ha.w2_5	25
-medial_ra_wa.w3	25
-medial_ra_wa_ha.w3	25
-medial_ra_wa.w1_5	25
-medial_ra_wa_ha.w1_5	25
-medial_ra_wa_ovl.w1_5	25
-medial_ra_wa_ha_ovl.w1_5	25
-medial_ra_wa_ha_ovl_tt.w1_5	25
-medial_ra_wa_tt.w3	25
-medial_ra_wa_ha_tt.w3	25
-medial_ra_wa_ovl.w3	25
-medial_ra_wa_ovl_tt.w3	25
-medial_ra_wa_ha_ovl.w3	25
-medial_ra_wa_ha_ovl_tt.w3	25
-medial_ra_wa_ovl_tt.w1_5	25
-_medialNa_mon	26
-_medialMa_mon	26
-_medialLa_mon	26
-kha.sub	26
-ga.sub	26
-nga.sub	26
-ca.sub	26
-ja.sub	26
-ddha.sub	26
-da.sub	26
-dha.sub	26
-na.sub	26
-pa.sub	26
-pha.sub	26
-ba.sub	26
-ma.sub	26
-ra.sub	26
-e_m.sub	26
-sha_skt.sub	26
-ssa_skt.sub	26
-vocR_skt.sub	26
-vocRR_skt.sub	26
-nga_mon.sub	26
-jha_mon.sub	26
-bba_mon.sub	26
-bbe_mon.sub	26
-sha_skn.sub	26
-tha_wpk.sub	26
-pwa_wpk.sub	26
-ka_shn.sub	26
-kha_shn.sub	26
-ga_shn.sub	26
-ba_shn.sub	26
-ha_shn.sub	26
-fa_rpg.sub	26
-class definition end
-
-class-chain		1, 12	5	1, 2
-class-chain		1, 12	7	1, 2
-class-chain		1, 12	24	1, 2
-class-chain		1, 12	25	1, 2
-class-chain		1, 12	1, 3	1, 4
-class-chain		1, 13	1, 3	1, 8
-class-chain		1, 14	1, 3	1, 6
-class-chain		1, 15	1, 3	1, 11
-class-chain		1, 17	1, 3	1, 25
-class-chain		1, 19	1, 3	1, 25
-class-chain		1, 12	16	1, 4
-class-chain		1, 13	16	1, 5
-class-chain		1, 15	16	1, 4
-class-chain		1, 15	7	1, 4
-class-chain		1, 15	5	1, 4
-class-chain		1, 15	24	1, 4
-class-chain		1, 15	25	1, 4
-class-chain		1, 3	1, 3	1, 2
-class-chain		1, 3	1, 12	1, 5
-class-chain		1, 3	1, 13	1, 5
-class-chain		1, 3	1, 14	1, 5
-class-chain		1, 3	1, 17	1, 6
-class-chain		1, 3	1, 18	1, 2
-class-chain		1, 3	1, 19	1, 13
-class-chain		1, 3	1, 20	1, 21
-class-chain		1, 3	5	1, 25
-class-chain		1, 3	7	1, 25
-class-chain		1, 3	16	1, 6
-class-chain		1, 3	23	1, 12
-class-chain		1, 3	24	1, 25
-class-chain		1, 3	25	1, 25
-class-chain		1, 3	8	1, 3
-class-chain		1, 3	9, 18	1, 4
-class-chain		1, 26	9, 18	1, 5
-class-chain		1, 3	9, 19	1, 4
-class-chain		1, 26	23	1, 21
-class-chain		1, 26	1, 19	1, 11
-class-chain		2, 12	5	1, 2
-class-chain		2, 12	7	1, 2
-class-chain		2, 12	24	1, 2
-class-chain		2, 12	25	1, 2
-class-chain		2, 12	1, 3	1, 4
-class-chain		2, 13	1, 3	1, 8
-class-chain		2, 14	1, 3	1, 6
-class-chain		2, 15	1, 3	1, 11
-class-chain		2, 17	1, 3	1, 25
-class-chain		2, 19	1, 3	1, 26
-class-chain		2, 12	16	1, 4
-class-chain		2, 13	16	1, 5
-class-chain		2, 15	16	1, 4
-class-chain		2, 15	7	1, 4
-class-chain		2, 15	5	1, 4
-class-chain		2, 15	24	1, 4
-class-chain		2, 15	25	1, 4
-class-chain		2, 26	9, 18	1, 5
-class-chain		2, 26	23	1, 2
-class-chain		2, 26	1, 19	1, 11
-class-chain		2, 3	1, 19	1, 4
-class-chain		2, 3	23	1, 8
-class-chain		2, 3	1, 18	1, 5
-class-chain		5	1, 3	1, 22
-class-chain		5	1, 18	1, 22
-class-chain		5	1, 19	1, 24
-class-chain		5	1, 20	1, 23
-class-chain		5	23	1, 24
-class-chain		6	1, 3	1, 22
-class-chain		6	1, 18	1, 22
-class-chain		6	1, 19	1, 24
-class-chain		6	1, 20	1, 23
-class-chain		6	23	1, 24
-class-chain		8	1, 3	1, 15
-class-chain		8	23	1, 18
-class-chain		8	1, 17	1, 16
-class-chain		8	1, 18	1, 17
-class-chain		8	1, 19	1, 19
-class-chain		8	1, 20	1, 20
-class-chain		8	9, 14	1, 14
-class-chain		8	9, 15	1, 14
-class-chain		8	9, 17	1, 16
-class-chain		8	9, 18	1, 17
-class-chain		8	9, 19	1, 19
-class-chain		8	9, 20	1, 20
-class-chain		9	1, 3	1, 28
-class-chain		9, 4	1, 3	1, 28
-class-chain		9, 20	1, 3	1, 28
-class-chain		9, 21	1, 3	1, 28
-class-chain		9, 26	1, 3	1, 28
-class-chain		23	1, 3	1, 27
-class-chain		23	16	1, 27
-class-chain		24, 1	1, 3	2, 2
-class-chain		24, 1	1, 18	2, 21
-class-chain		24, 1	1, 19	2, 9
-class-chain		24, 1	1, 20	2, 5
-class-chain		24, 2	1, 3	2, 2
-class-chain		24, 2	1, 18	2, 21
-class-chain		24, 2	1, 19	2, 9
-class-chain		24, 2	1, 20	2, 5
-class-chain		24, 1, 26	1, 19	2, 7
-class-chain		24, 1, 26	23	2, 10
-class-chain		24, 2, 26	1, 19	2, 7
-class-chain		24, 2, 26	23	2, 10
-class-chain		24, 1, 4	1, 3	2, 21
-class-chain		24, 1, 4	1, 18	2, 7
-class-chain		24, 1, 4	1, 19	2, 4
-class-chain		24, 1, 4	1, 20	2, 6
-class-chain		24, 1, 4	23	2, 4
-class-chain		24, 2, 3	23	2, 2
-class-chain		25, 1	1, 3	2, 2
-class-chain		25, 1	1, 18	2, 21
-class-chain		25, 1	1, 19	2, 4
-class-chain		25, 1	1, 20	2, 6
-class-chain		25, 1	23	2, 4
-class-chain		25, 2	1, 3	2, 2
-class-chain		25, 2	1, 18	2, 21
-class-chain		25, 2	1, 19	2, 4
-class-chain		25, 2	1, 20	2, 6
-class-chain		25, 2	23	2, 4
-class-chain		25, 1, 22	1, 3	2, 2
-class-chain		25, 1, 22	1, 18	2, 21
-class-chain		25, 1, 22	1, 19	2, 4
-class-chain		25, 1, 22	1, 20	2, 6
-class-chain		25, 1, 22	23	2, 4
-class-chain		25, 2, 22	1, 3	2, 2
-class-chain		25, 2, 22	1, 18	2, 21
-class-chain		25, 2, 22	1, 19	2, 4
-class-chain		25, 2, 22	1, 20	2, 6
-class-chain		25, 2, 22	23	2, 4
-
-lookup end
-
-
-lookup	1	chained
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-MarkAttachmentType	2
-
-class definition begin
-kha	1
-ga	1
-nga	1
-ca	1
-ja	1
-ddha	1
-da	1
-dha	1
-na	1
-pa	1
-pha	1
-ba	1
-ma	1
-wa	1
-e_m	1
-sha_skt	1
-ssa_skt	1
-vocR_skt	1
-vocRR_skt	1
-vocL_skt	1
-vocLL_skt	1
-bba_mon	1
-tha_wpk	1
-pwa_wpk	1
-ka_shn	1
-kha_shn	1
-ga_shn	1
-ba_shn	1
-ha_shn	1
-fa_rpg	1
-cha_khm	1
-na_khm	1
-fa_khm	1
-ra_khm	1
-na.alt	1
-uni25CC	1
-gha_shn	1
-nna_tlg	1
-ba_tlg	1
-ga_dot	1
-nga_dot	1
-pa_dot	1
-ma_dot	1
-wa_dot	1
-ka_shn_dot	1
-cha_khm_dot	1
-na_khm_dot	1
-fa_khm_dot	1
-ka.sub	2
-gha.sub	2
-cha.sub	2
-nya.sub	2
-nnya.sub	2
-tta.sub	2
-ttha.sub	2
-dda.sub	2
-nna.sub	2
-ta.sub	2
-tha.sub	2
-bha.sub	2
-ya.sub	2
-la.sub	2
-sa.sub	2
-ha.sub	2
-lla.sub	2
-a_m.sub	2
-a_shn.sub	2
-great_sa.sub	2
-nna_epk.sub	2
-ywa_epk.sub	2
-ghwa_epk.sub	2
-ca_shn.sub	2
-za_shn.sub	2
-nya_shn.sub	2
-da_shn.sub	2
-na_shn.sub	2
-pha_shn.sub	2
-fa_shn.sub	2
-tha_shn.sub	2
-ga_khm.sub	2
-ka_dot.sub	2
-ta_dot.sub	2
-tha_dot.sub	2
-ya_dot.sub	2
-la_dot.sub	2
-a_shn_dot.sub	2
-ca_shn_dot.sub	2
-nya_shn_dot.sub	2
-tha_shn_dot.sub	2
-ga_khm_dot.sub	2
-class definition end
-
-lookaheadclass definition begin
-ra	4
-ra.alt2	4
-ra_rsbwide220	4
-ra_rsbwide150.alt2	4
-medial_ha_uu	5
-medial_wa_ha	5
-medial_wa_ha_ovl	5
-medial_ha_obl_uu	6
-medial_wa_ha_dot_ovl	6
-class definition end
-
-class-chain		1, 2	4, 5	1, 10
-class-chain		1, 2	4, 6	1, 4
-
-lookup end
-
-
-lookup	2	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	120
-x advance	kha	120
-x advance	ga	120
-x advance	gha	120
-x advance	nga	120
-x advance	ca	120
-x advance	cha	120
-x advance	ja	120
-x advance	nya	120
-x advance	nnya	120
-x advance	ttha	120
-x advance	ddha	120
-x advance	nna	120
-x advance	ta	120
-x advance	tha	120
-x advance	da	120
-x advance	dha	120
-x advance	na	120
-x advance	pa	120
-x advance	pha	120
-x advance	ba	120
-x advance	bha	120
-x advance	ma	120
-x advance	ya	120
-x advance	la	120
-x advance	wa	120
-x advance	sa	120
-x advance	ha	120
-x advance	a_m	120
-x advance	a_shn	120
-x advance	i_m	120
-x advance	e_m	120
-x advance	great_sa	120
-x advance	sha_skt	120
-x advance	ssa_skt	120
-x advance	vocR_skt	120
-x advance	vocRR_skt	120
-x advance	vocL_skt	120
-x advance	vocLL_skt	120
-x advance	nga_mon	120
-x advance	jha_mon	120
-x advance	bba_mon	120
-x advance	sha_skn	120
-x advance	tha_wpk	120
-x advance	pwa_wpk	120
-x advance	nna_epk	120
-x advance	ka_shn	120
-x advance	kha_shn	120
-x advance	ga_shn	120
-x advance	ca_shn	120
-x advance	za_shn	120
-x advance	da_shn	120
-x advance	na_shn	120
-x advance	pha_shn	120
-x advance	ba_shn	120
-x advance	tha_shn	120
-x advance	ha_shn	120
-x advance	fa_rpg	120
-x advance	ga_khm	120
-x advance	ca_khm	120
-x advance	cha_khm	120
-x advance	ja_khm	120
-x advance	jha_khm	120
-x advance	nya_khm	120
-x advance	tta_khm	120
-x advance	ttha_khm	120
-x advance	dda_khm	120
-x advance	ddha_khm	120
-x advance	dha_khm	120
-x advance	na_khm	120
-x advance	sa_khm	120
-x advance	hha_khm	120
-x advance	fa_khm	120
-x advance	xa_khm	120
-x advance	za_khm	120
-x advance	ra_khm	120
-x advance	nnya.notail	120
-x advance	na.alt	120
-x advance	uni25CC	120
-x advance	cha_shw	120
-x advance	sha_shw	120
-x advance	gha_shn	120
-x advance	cha_shn	120
-x advance	jha_shn	120
-x advance	nna_shn	120
-x advance	bha_shn	120
-x advance	nya_tlg	120
-x advance	fa_tlg	120
-x advance	ga_tlg	120
-x advance	gha_tlg	120
-x advance	ja_tlg	120
-x advance	sa_tlg	120
-x advance	dda_tlg	120
-x advance	ddha_tlg	120
-x advance	nna_tlg	120
-x advance	lla_tlg	120
-x advance	da_tlg	120
-x advance	dha_tlg	120
-x advance	ba_tlg	120
-x advance	bha_tlg	120
-x advance	ka_dot	120
-x advance	ga_dot	120
-x advance	nga_dot	120
-x advance	ta_dot	120
-x advance	tha_dot	120
-x advance	pa_dot	120
-x advance	ma_dot	120
-x advance	ya_dot	120
-x advance	la_dot	120
-x advance	wa_dot	120
-x advance	a_shn_dot	120
-x advance	ka_shn_dot	120
-x advance	ca_shn_dot	120
-x advance	tha_shn_dot	120
-x advance	ga_khm_dot	120
-x advance	ca_khm_dot	120
-x advance	cha_khm_dot	120
-x advance	ja_khm_dot	120
-x advance	jha_khm_dot	120
-x advance	tta_khm_dot	120
-x advance	na_khm_dot	120
-x advance	sa_khm_dot	120
-x advance	fa_khm_dot	120
-
-lookup end
-
-
-lookup	3	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	127
-x advance	kha	127
-x advance	ga	127
-x advance	gha	127
-x advance	nga	127
-x advance	ca	127
-x advance	cha	127
-x advance	ja	127
-x advance	nya	127
-x advance	nnya	127
-x advance	ttha	127
-x advance	ddha	127
-x advance	nna	127
-x advance	ta	127
-x advance	tha	127
-x advance	da	127
-x advance	dha	127
-x advance	na	127
-x advance	pa	127
-x advance	pha	127
-x advance	ba	127
-x advance	bha	127
-x advance	ma	127
-x advance	ya	127
-x advance	la	127
-x advance	wa	127
-x advance	sa	127
-x advance	ha	127
-x advance	a_m	127
-x advance	a_shn	127
-x advance	i_m	127
-x advance	e_m	127
-x advance	great_sa	127
-x advance	sha_skt	127
-x advance	ssa_skt	127
-x advance	vocR_skt	127
-x advance	vocRR_skt	127
-x advance	vocL_skt	127
-x advance	vocLL_skt	127
-x advance	nga_mon	127
-x advance	jha_mon	127
-x advance	bba_mon	127
-x advance	sha_skn	127
-x advance	tha_wpk	127
-x advance	pwa_wpk	127
-x advance	nna_epk	127
-x advance	ka_shn	127
-x advance	kha_shn	127
-x advance	ga_shn	127
-x advance	ca_shn	127
-x advance	za_shn	127
-x advance	da_shn	127
-x advance	na_shn	127
-x advance	pha_shn	127
-x advance	ba_shn	127
-x advance	tha_shn	127
-x advance	ha_shn	127
-x advance	fa_rpg	127
-x advance	ga_khm	127
-x advance	ca_khm	127
-x advance	cha_khm	127
-x advance	ja_khm	127
-x advance	jha_khm	127
-x advance	nya_khm	127
-x advance	tta_khm	127
-x advance	ttha_khm	127
-x advance	dda_khm	127
-x advance	ddha_khm	127
-x advance	dha_khm	127
-x advance	na_khm	127
-x advance	sa_khm	127
-x advance	hha_khm	127
-x advance	fa_khm	127
-x advance	xa_khm	127
-x advance	za_khm	127
-x advance	ra_khm	127
-x advance	nnya.notail	127
-x advance	na.alt	127
-x advance	uni25CC	127
-x advance	cha_shw	127
-x advance	sha_shw	127
-x advance	gha_shn	127
-x advance	cha_shn	127
-x advance	jha_shn	127
-x advance	nna_shn	127
-x advance	bha_shn	127
-x advance	nya_tlg	127
-x advance	fa_tlg	127
-x advance	ga_tlg	127
-x advance	gha_tlg	127
-x advance	ja_tlg	127
-x advance	sa_tlg	127
-x advance	dda_tlg	127
-x advance	ddha_tlg	127
-x advance	nna_tlg	127
-x advance	lla_tlg	127
-x advance	da_tlg	127
-x advance	dha_tlg	127
-x advance	ba_tlg	127
-x advance	bha_tlg	127
-x advance	ka_dot	127
-x advance	ga_dot	127
-x advance	nga_dot	127
-x advance	ta_dot	127
-x advance	tha_dot	127
-x advance	pa_dot	127
-x advance	ma_dot	127
-x advance	ya_dot	127
-x advance	la_dot	127
-x advance	wa_dot	127
-x advance	a_shn_dot	127
-x advance	ka_shn_dot	127
-x advance	ca_shn_dot	127
-x advance	tha_shn_dot	127
-x advance	ga_khm_dot	127
-x advance	ca_khm_dot	127
-x advance	cha_khm_dot	127
-x advance	ja_khm_dot	127
-x advance	jha_khm_dot	127
-x advance	tta_khm_dot	127
-x advance	na_khm_dot	127
-x advance	sa_khm_dot	127
-x advance	fa_khm_dot	127
-
-lookup end
-
-
-lookup	4	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	166
-x advance	kha	166
-x advance	ga	166
-x advance	gha	166
-x advance	nga	166
-x advance	ca	166
-x advance	cha	166
-x advance	ja	166
-x advance	nya	166
-x advance	nnya	166
-x advance	ttha	166
-x advance	ddha	166
-x advance	nna	166
-x advance	ta	166
-x advance	tha	166
-x advance	da	166
-x advance	dha	166
-x advance	na	166
-x advance	pa	166
-x advance	pha	166
-x advance	ba	166
-x advance	bha	166
-x advance	ma	166
-x advance	ya	166
-x advance	la	166
-x advance	wa	166
-x advance	sa	166
-x advance	ha	166
-x advance	a_m	166
-x advance	a_shn	166
-x advance	i_m	166
-x advance	e_m	166
-x advance	great_sa	166
-x advance	sha_skt	166
-x advance	ssa_skt	166
-x advance	vocR_skt	166
-x advance	vocRR_skt	166
-x advance	vocL_skt	166
-x advance	vocLL_skt	166
-x advance	nga_mon	166
-x advance	jha_mon	166
-x advance	bba_mon	166
-x advance	sha_skn	166
-x advance	tha_wpk	166
-x advance	pwa_wpk	166
-x advance	nna_epk	166
-x advance	ka_shn	166
-x advance	kha_shn	166
-x advance	ga_shn	166
-x advance	ca_shn	166
-x advance	za_shn	166
-x advance	da_shn	166
-x advance	na_shn	166
-x advance	pha_shn	166
-x advance	ba_shn	166
-x advance	tha_shn	166
-x advance	ha_shn	166
-x advance	fa_rpg	166
-x advance	ga_khm	166
-x advance	ca_khm	166
-x advance	cha_khm	166
-x advance	ja_khm	166
-x advance	jha_khm	166
-x advance	nya_khm	166
-x advance	tta_khm	166
-x advance	ttha_khm	166
-x advance	dda_khm	166
-x advance	ddha_khm	166
-x advance	dha_khm	166
-x advance	na_khm	166
-x advance	sa_khm	166
-x advance	hha_khm	166
-x advance	fa_khm	166
-x advance	xa_khm	166
-x advance	za_khm	166
-x advance	ra_khm	166
-x advance	nnya.notail	166
-x advance	na.alt	166
-x advance	uni25CC	166
-x advance	cha_shw	166
-x advance	sha_shw	166
-x advance	gha_shn	166
-x advance	cha_shn	166
-x advance	jha_shn	166
-x advance	nna_shn	166
-x advance	bha_shn	166
-x advance	nya_tlg	166
-x advance	fa_tlg	166
-x advance	ga_tlg	166
-x advance	gha_tlg	166
-x advance	ja_tlg	166
-x advance	sa_tlg	166
-x advance	dda_tlg	166
-x advance	ddha_tlg	166
-x advance	nna_tlg	166
-x advance	lla_tlg	166
-x advance	da_tlg	166
-x advance	dha_tlg	166
-x advance	ba_tlg	166
-x advance	bha_tlg	166
-x advance	ka_dot	166
-x advance	ga_dot	166
-x advance	nga_dot	166
-x advance	ta_dot	166
-x advance	tha_dot	166
-x advance	pa_dot	166
-x advance	ma_dot	166
-x advance	ya_dot	166
-x advance	la_dot	166
-x advance	wa_dot	166
-x advance	a_shn_dot	166
-x advance	ka_shn_dot	166
-x advance	ca_shn_dot	166
-x advance	tha_shn_dot	166
-x advance	ga_khm_dot	166
-x advance	ca_khm_dot	166
-x advance	cha_khm_dot	166
-x advance	ja_khm_dot	166
-x advance	jha_khm_dot	166
-x advance	tta_khm_dot	166
-x advance	na_khm_dot	166
-x advance	sa_khm_dot	166
-x advance	fa_khm_dot	166
-
-lookup end
-
-
-lookup	5	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	21
-x advance	kha	21
-x advance	ga	21
-x advance	gha	21
-x advance	nga	21
-x advance	ca	21
-x advance	cha	21
-x advance	ja	21
-x advance	nya	21
-x advance	nnya	21
-x advance	ttha	21
-x advance	ddha	21
-x advance	nna	21
-x advance	ta	21
-x advance	tha	21
-x advance	da	21
-x advance	dha	21
-x advance	na	21
-x advance	pa	21
-x advance	pha	21
-x advance	ba	21
-x advance	bha	21
-x advance	ma	21
-x advance	ya	21
-x advance	la	21
-x advance	wa	21
-x advance	sa	21
-x advance	ha	21
-x advance	a_m	21
-x advance	a_shn	21
-x advance	i_m	21
-x advance	e_m	21
-x advance	great_sa	21
-x advance	sha_skt	21
-x advance	ssa_skt	21
-x advance	vocR_skt	21
-x advance	vocRR_skt	21
-x advance	vocL_skt	21
-x advance	vocLL_skt	21
-x advance	nga_mon	21
-x advance	jha_mon	21
-x advance	bba_mon	21
-x advance	sha_skn	21
-x advance	tha_wpk	21
-x advance	pwa_wpk	21
-x advance	nna_epk	21
-x advance	ka_shn	21
-x advance	kha_shn	21
-x advance	ga_shn	21
-x advance	ca_shn	21
-x advance	za_shn	21
-x advance	da_shn	21
-x advance	na_shn	21
-x advance	pha_shn	21
-x advance	ba_shn	21
-x advance	tha_shn	21
-x advance	ha_shn	21
-x advance	fa_rpg	21
-x advance	ga_khm	21
-x advance	ca_khm	21
-x advance	cha_khm	21
-x advance	ja_khm	21
-x advance	jha_khm	21
-x advance	nya_khm	21
-x advance	tta_khm	21
-x advance	ttha_khm	21
-x advance	dda_khm	21
-x advance	ddha_khm	21
-x advance	dha_khm	21
-x advance	na_khm	21
-x advance	sa_khm	21
-x advance	hha_khm	21
-x advance	fa_khm	21
-x advance	xa_khm	21
-x advance	za_khm	21
-x advance	ra_khm	21
-x advance	nnya.notail	21
-x advance	na.alt	21
-x advance	uni25CC	21
-x advance	cha_shw	21
-x advance	sha_shw	21
-x advance	gha_shn	21
-x advance	cha_shn	21
-x advance	jha_shn	21
-x advance	nna_shn	21
-x advance	bha_shn	21
-x advance	nya_tlg	21
-x advance	fa_tlg	21
-x advance	ga_tlg	21
-x advance	gha_tlg	21
-x advance	ja_tlg	21
-x advance	sa_tlg	21
-x advance	dda_tlg	21
-x advance	ddha_tlg	21
-x advance	nna_tlg	21
-x advance	lla_tlg	21
-x advance	da_tlg	21
-x advance	dha_tlg	21
-x advance	ba_tlg	21
-x advance	bha_tlg	21
-x advance	ka_dot	21
-x advance	ga_dot	21
-x advance	nga_dot	21
-x advance	ta_dot	21
-x advance	tha_dot	21
-x advance	pa_dot	21
-x advance	ma_dot	21
-x advance	ya_dot	21
-x advance	la_dot	21
-x advance	wa_dot	21
-x advance	a_shn_dot	21
-x advance	ka_shn_dot	21
-x advance	ca_shn_dot	21
-x advance	tha_shn_dot	21
-x advance	ga_khm_dot	21
-x advance	ca_khm_dot	21
-x advance	cha_khm_dot	21
-x advance	ja_khm_dot	21
-x advance	jha_khm_dot	21
-x advance	tta_khm_dot	21
-x advance	na_khm_dot	21
-x advance	sa_khm_dot	21
-x advance	fa_khm_dot	21
-
-lookup end
-
-
-lookup	6	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	44
-x advance	kha	44
-x advance	ga	44
-x advance	gha	44
-x advance	nga	44
-x advance	ca	44
-x advance	cha	44
-x advance	ja	44
-x advance	nya	44
-x advance	nnya	44
-x advance	ttha	44
-x advance	ddha	44
-x advance	nna	44
-x advance	ta	44
-x advance	tha	44
-x advance	da	44
-x advance	dha	44
-x advance	na	44
-x advance	pa	44
-x advance	pha	44
-x advance	ba	44
-x advance	bha	44
-x advance	ma	44
-x advance	ya	44
-x advance	la	44
-x advance	wa	44
-x advance	sa	44
-x advance	ha	44
-x advance	a_m	44
-x advance	a_shn	44
-x advance	i_m	44
-x advance	e_m	44
-x advance	great_sa	44
-x advance	sha_skt	44
-x advance	ssa_skt	44
-x advance	vocR_skt	44
-x advance	vocRR_skt	44
-x advance	vocL_skt	44
-x advance	vocLL_skt	44
-x advance	nga_mon	44
-x advance	jha_mon	44
-x advance	bba_mon	44
-x advance	sha_skn	44
-x advance	tha_wpk	44
-x advance	pwa_wpk	44
-x advance	nna_epk	44
-x advance	ka_shn	44
-x advance	kha_shn	44
-x advance	ga_shn	44
-x advance	ca_shn	44
-x advance	za_shn	44
-x advance	da_shn	44
-x advance	na_shn	44
-x advance	pha_shn	44
-x advance	ba_shn	44
-x advance	tha_shn	44
-x advance	ha_shn	44
-x advance	fa_rpg	44
-x advance	ga_khm	44
-x advance	ca_khm	44
-x advance	cha_khm	44
-x advance	ja_khm	44
-x advance	jha_khm	44
-x advance	nya_khm	44
-x advance	tta_khm	44
-x advance	ttha_khm	44
-x advance	dda_khm	44
-x advance	ddha_khm	44
-x advance	dha_khm	44
-x advance	na_khm	44
-x advance	sa_khm	44
-x advance	hha_khm	44
-x advance	fa_khm	44
-x advance	xa_khm	44
-x advance	za_khm	44
-x advance	ra_khm	44
-x advance	nnya.notail	44
-x advance	na.alt	44
-x advance	uni25CC	44
-x advance	cha_shw	44
-x advance	sha_shw	44
-x advance	gha_shn	44
-x advance	cha_shn	44
-x advance	jha_shn	44
-x advance	nna_shn	44
-x advance	bha_shn	44
-x advance	nya_tlg	44
-x advance	fa_tlg	44
-x advance	ga_tlg	44
-x advance	gha_tlg	44
-x advance	ja_tlg	44
-x advance	sa_tlg	44
-x advance	dda_tlg	44
-x advance	ddha_tlg	44
-x advance	nna_tlg	44
-x advance	lla_tlg	44
-x advance	da_tlg	44
-x advance	dha_tlg	44
-x advance	ba_tlg	44
-x advance	bha_tlg	44
-x advance	ka_dot	44
-x advance	ga_dot	44
-x advance	nga_dot	44
-x advance	ta_dot	44
-x advance	tha_dot	44
-x advance	pa_dot	44
-x advance	ma_dot	44
-x advance	ya_dot	44
-x advance	la_dot	44
-x advance	wa_dot	44
-x advance	a_shn_dot	44
-x advance	ka_shn_dot	44
-x advance	ca_shn_dot	44
-x advance	tha_shn_dot	44
-x advance	ga_khm_dot	44
-x advance	ca_khm_dot	44
-x advance	cha_khm_dot	44
-x advance	ja_khm_dot	44
-x advance	jha_khm_dot	44
-x advance	tta_khm_dot	44
-x advance	na_khm_dot	44
-x advance	sa_khm_dot	44
-x advance	fa_khm_dot	44
-
-lookup end
-
-
-lookup	7	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	55
-x advance	kha	55
-x advance	ga	55
-x advance	gha	55
-x advance	nga	55
-x advance	ca	55
-x advance	cha	55
-x advance	ja	55
-x advance	nya	55
-x advance	nnya	55
-x advance	ttha	55
-x advance	ddha	55
-x advance	nna	55
-x advance	ta	55
-x advance	tha	55
-x advance	da	55
-x advance	dha	55
-x advance	na	55
-x advance	pa	55
-x advance	pha	55
-x advance	ba	55
-x advance	bha	55
-x advance	ma	55
-x advance	ya	55
-x advance	la	55
-x advance	wa	55
-x advance	sa	55
-x advance	ha	55
-x advance	a_m	55
-x advance	a_shn	55
-x advance	i_m	55
-x advance	e_m	55
-x advance	great_sa	55
-x advance	sha_skt	55
-x advance	ssa_skt	55
-x advance	vocR_skt	55
-x advance	vocRR_skt	55
-x advance	vocL_skt	55
-x advance	vocLL_skt	55
-x advance	nga_mon	55
-x advance	jha_mon	55
-x advance	bba_mon	55
-x advance	sha_skn	55
-x advance	tha_wpk	55
-x advance	pwa_wpk	55
-x advance	nna_epk	55
-x advance	ka_shn	55
-x advance	kha_shn	55
-x advance	ga_shn	55
-x advance	ca_shn	55
-x advance	za_shn	55
-x advance	da_shn	55
-x advance	na_shn	55
-x advance	pha_shn	55
-x advance	ba_shn	55
-x advance	tha_shn	55
-x advance	ha_shn	55
-x advance	fa_rpg	55
-x advance	ga_khm	55
-x advance	ca_khm	55
-x advance	cha_khm	55
-x advance	ja_khm	55
-x advance	jha_khm	55
-x advance	nya_khm	55
-x advance	tta_khm	55
-x advance	ttha_khm	55
-x advance	dda_khm	55
-x advance	ddha_khm	55
-x advance	dha_khm	55
-x advance	na_khm	55
-x advance	sa_khm	55
-x advance	hha_khm	55
-x advance	fa_khm	55
-x advance	xa_khm	55
-x advance	za_khm	55
-x advance	ra_khm	55
-x advance	nnya.notail	55
-x advance	na.alt	55
-x advance	uni25CC	55
-x advance	cha_shw	55
-x advance	sha_shw	55
-x advance	gha_shn	55
-x advance	cha_shn	55
-x advance	jha_shn	55
-x advance	nna_shn	55
-x advance	bha_shn	55
-x advance	nya_tlg	55
-x advance	fa_tlg	55
-x advance	ga_tlg	55
-x advance	gha_tlg	55
-x advance	ja_tlg	55
-x advance	sa_tlg	55
-x advance	dda_tlg	55
-x advance	ddha_tlg	55
-x advance	nna_tlg	55
-x advance	lla_tlg	55
-x advance	da_tlg	55
-x advance	dha_tlg	55
-x advance	ba_tlg	55
-x advance	bha_tlg	55
-x advance	ka_dot	55
-x advance	ga_dot	55
-x advance	nga_dot	55
-x advance	ta_dot	55
-x advance	tha_dot	55
-x advance	pa_dot	55
-x advance	ma_dot	55
-x advance	ya_dot	55
-x advance	la_dot	55
-x advance	wa_dot	55
-x advance	a_shn_dot	55
-x advance	ka_shn_dot	55
-x advance	ca_shn_dot	55
-x advance	tha_shn_dot	55
-x advance	ga_khm_dot	55
-x advance	ca_khm_dot	55
-x advance	cha_khm_dot	55
-x advance	ja_khm_dot	55
-x advance	jha_khm_dot	55
-x advance	tta_khm_dot	55
-x advance	na_khm_dot	55
-x advance	sa_khm_dot	55
-x advance	fa_khm_dot	55
-
-lookup end
-
-
-lookup	8	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	88
-x advance	kha	88
-x advance	ga	88
-x advance	gha	88
-x advance	nga	88
-x advance	ca	88
-x advance	cha	88
-x advance	ja	88
-x advance	nya	88
-x advance	nnya	88
-x advance	ttha	88
-x advance	ddha	88
-x advance	nna	88
-x advance	ta	88
-x advance	tha	88
-x advance	da	88
-x advance	dha	88
-x advance	na	88
-x advance	pa	88
-x advance	pha	88
-x advance	ba	88
-x advance	bha	88
-x advance	ma	88
-x advance	ya	88
-x advance	la	88
-x advance	wa	88
-x advance	sa	88
-x advance	ha	88
-x advance	a_m	88
-x advance	a_shn	88
-x advance	i_m	88
-x advance	e_m	88
-x advance	great_sa	88
-x advance	sha_skt	88
-x advance	ssa_skt	88
-x advance	vocR_skt	88
-x advance	vocRR_skt	88
-x advance	vocL_skt	88
-x advance	vocLL_skt	88
-x advance	nga_mon	88
-x advance	jha_mon	88
-x advance	bba_mon	88
-x advance	sha_skn	88
-x advance	tha_wpk	88
-x advance	pwa_wpk	88
-x advance	nna_epk	88
-x advance	ka_shn	88
-x advance	kha_shn	88
-x advance	ga_shn	88
-x advance	ca_shn	88
-x advance	za_shn	88
-x advance	da_shn	88
-x advance	na_shn	88
-x advance	pha_shn	88
-x advance	ba_shn	88
-x advance	tha_shn	88
-x advance	ha_shn	88
-x advance	fa_rpg	88
-x advance	ga_khm	88
-x advance	ca_khm	88
-x advance	cha_khm	88
-x advance	ja_khm	88
-x advance	jha_khm	88
-x advance	nya_khm	88
-x advance	tta_khm	88
-x advance	ttha_khm	88
-x advance	dda_khm	88
-x advance	ddha_khm	88
-x advance	dha_khm	88
-x advance	na_khm	88
-x advance	sa_khm	88
-x advance	hha_khm	88
-x advance	fa_khm	88
-x advance	xa_khm	88
-x advance	za_khm	88
-x advance	ra_khm	88
-x advance	nnya.notail	88
-x advance	na.alt	88
-x advance	uni25CC	88
-x advance	cha_shw	88
-x advance	sha_shw	88
-x advance	gha_shn	88
-x advance	cha_shn	88
-x advance	jha_shn	88
-x advance	nna_shn	88
-x advance	bha_shn	88
-x advance	nya_tlg	88
-x advance	fa_tlg	88
-x advance	ga_tlg	88
-x advance	gha_tlg	88
-x advance	ja_tlg	88
-x advance	sa_tlg	88
-x advance	dda_tlg	88
-x advance	ddha_tlg	88
-x advance	nna_tlg	88
-x advance	lla_tlg	88
-x advance	da_tlg	88
-x advance	dha_tlg	88
-x advance	ba_tlg	88
-x advance	bha_tlg	88
-x advance	ka_dot	88
-x advance	ga_dot	88
-x advance	nga_dot	88
-x advance	ta_dot	88
-x advance	tha_dot	88
-x advance	pa_dot	88
-x advance	ma_dot	88
-x advance	ya_dot	88
-x advance	la_dot	88
-x advance	wa_dot	88
-x advance	a_shn_dot	88
-x advance	ka_shn_dot	88
-x advance	ca_shn_dot	88
-x advance	tha_shn_dot	88
-x advance	ga_khm_dot	88
-x advance	ca_khm_dot	88
-x advance	cha_khm_dot	88
-x advance	ja_khm_dot	88
-x advance	jha_khm_dot	88
-x advance	tta_khm_dot	88
-x advance	na_khm_dot	88
-x advance	sa_khm_dot	88
-x advance	fa_khm_dot	88
-
-lookup end
-
-
-lookup	9	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	197
-x advance	kha	197
-x advance	ga	197
-x advance	gha	197
-x advance	nga	197
-x advance	ca	197
-x advance	cha	197
-x advance	ja	197
-x advance	nya	197
-x advance	nnya	197
-x advance	ttha	197
-x advance	ddha	197
-x advance	nna	197
-x advance	ta	197
-x advance	tha	197
-x advance	da	197
-x advance	dha	197
-x advance	na	197
-x advance	pa	197
-x advance	pha	197
-x advance	ba	197
-x advance	bha	197
-x advance	ma	197
-x advance	ya	197
-x advance	la	197
-x advance	wa	197
-x advance	sa	197
-x advance	ha	197
-x advance	a_m	197
-x advance	a_shn	197
-x advance	i_m	197
-x advance	e_m	197
-x advance	great_sa	197
-x advance	sha_skt	197
-x advance	ssa_skt	197
-x advance	vocR_skt	197
-x advance	vocRR_skt	197
-x advance	vocL_skt	197
-x advance	vocLL_skt	197
-x advance	nga_mon	197
-x advance	jha_mon	197
-x advance	bba_mon	197
-x advance	sha_skn	197
-x advance	tha_wpk	197
-x advance	pwa_wpk	197
-x advance	nna_epk	197
-x advance	ka_shn	197
-x advance	kha_shn	197
-x advance	ga_shn	197
-x advance	ca_shn	197
-x advance	za_shn	197
-x advance	da_shn	197
-x advance	na_shn	197
-x advance	pha_shn	197
-x advance	ba_shn	197
-x advance	tha_shn	197
-x advance	ha_shn	197
-x advance	fa_rpg	197
-x advance	ga_khm	197
-x advance	ca_khm	197
-x advance	cha_khm	197
-x advance	ja_khm	197
-x advance	jha_khm	197
-x advance	nya_khm	197
-x advance	tta_khm	197
-x advance	ttha_khm	197
-x advance	dda_khm	197
-x advance	ddha_khm	197
-x advance	dha_khm	197
-x advance	na_khm	197
-x advance	sa_khm	197
-x advance	hha_khm	197
-x advance	fa_khm	197
-x advance	xa_khm	197
-x advance	za_khm	197
-x advance	ra_khm	197
-x advance	nnya.notail	197
-x advance	na.alt	197
-x advance	uni25CC	197
-x advance	cha_shw	197
-x advance	sha_shw	197
-x advance	gha_shn	197
-x advance	cha_shn	197
-x advance	jha_shn	197
-x advance	nna_shn	197
-x advance	bha_shn	197
-x advance	nya_tlg	197
-x advance	fa_tlg	197
-x advance	ga_tlg	197
-x advance	gha_tlg	197
-x advance	ja_tlg	197
-x advance	sa_tlg	197
-x advance	dda_tlg	197
-x advance	ddha_tlg	197
-x advance	nna_tlg	197
-x advance	lla_tlg	197
-x advance	da_tlg	197
-x advance	dha_tlg	197
-x advance	ba_tlg	197
-x advance	bha_tlg	197
-x advance	ka_dot	197
-x advance	ga_dot	197
-x advance	nga_dot	197
-x advance	ta_dot	197
-x advance	tha_dot	197
-x advance	pa_dot	197
-x advance	ma_dot	197
-x advance	ya_dot	197
-x advance	la_dot	197
-x advance	wa_dot	197
-x advance	a_shn_dot	197
-x advance	ka_shn_dot	197
-x advance	ca_shn_dot	197
-x advance	tha_shn_dot	197
-x advance	ga_khm_dot	197
-x advance	ca_khm_dot	197
-x advance	cha_khm_dot	197
-x advance	ja_khm_dot	197
-x advance	jha_khm_dot	197
-x advance	tta_khm_dot	197
-x advance	na_khm_dot	197
-x advance	sa_khm_dot	197
-x advance	fa_khm_dot	197
-
-lookup end
-
-
-lookup	10	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	139
-x advance	kha	139
-x advance	ga	139
-x advance	gha	139
-x advance	nga	139
-x advance	ca	139
-x advance	cha	139
-x advance	ja	139
-x advance	nya	139
-x advance	nnya	139
-x advance	ttha	139
-x advance	ddha	139
-x advance	nna	139
-x advance	ta	139
-x advance	tha	139
-x advance	da	139
-x advance	dha	139
-x advance	na	139
-x advance	pa	139
-x advance	pha	139
-x advance	ba	139
-x advance	bha	139
-x advance	ma	139
-x advance	ya	139
-x advance	la	139
-x advance	wa	139
-x advance	sa	139
-x advance	ha	139
-x advance	a_m	139
-x advance	a_shn	139
-x advance	i_m	139
-x advance	e_m	139
-x advance	great_sa	139
-x advance	sha_skt	139
-x advance	ssa_skt	139
-x advance	vocR_skt	139
-x advance	vocRR_skt	139
-x advance	vocL_skt	139
-x advance	vocLL_skt	139
-x advance	nga_mon	139
-x advance	jha_mon	139
-x advance	bba_mon	139
-x advance	sha_skn	139
-x advance	tha_wpk	139
-x advance	pwa_wpk	139
-x advance	nna_epk	139
-x advance	ka_shn	139
-x advance	kha_shn	139
-x advance	ga_shn	139
-x advance	ca_shn	139
-x advance	za_shn	139
-x advance	da_shn	139
-x advance	na_shn	139
-x advance	pha_shn	139
-x advance	ba_shn	139
-x advance	tha_shn	139
-x advance	ha_shn	139
-x advance	fa_rpg	139
-x advance	ga_khm	139
-x advance	ca_khm	139
-x advance	cha_khm	139
-x advance	ja_khm	139
-x advance	jha_khm	139
-x advance	nya_khm	139
-x advance	tta_khm	139
-x advance	ttha_khm	139
-x advance	dda_khm	139
-x advance	ddha_khm	139
-x advance	dha_khm	139
-x advance	na_khm	139
-x advance	sa_khm	139
-x advance	hha_khm	139
-x advance	fa_khm	139
-x advance	xa_khm	139
-x advance	za_khm	139
-x advance	ra_khm	139
-x advance	nnya.notail	139
-x advance	na.alt	139
-x advance	uni25CC	139
-x advance	cha_shw	139
-x advance	sha_shw	139
-x advance	gha_shn	139
-x advance	cha_shn	139
-x advance	jha_shn	139
-x advance	nna_shn	139
-x advance	bha_shn	139
-x advance	nya_tlg	139
-x advance	fa_tlg	139
-x advance	ga_tlg	139
-x advance	gha_tlg	139
-x advance	ja_tlg	139
-x advance	sa_tlg	139
-x advance	dda_tlg	139
-x advance	ddha_tlg	139
-x advance	nna_tlg	139
-x advance	lla_tlg	139
-x advance	da_tlg	139
-x advance	dha_tlg	139
-x advance	ba_tlg	139
-x advance	bha_tlg	139
-x advance	ka_dot	139
-x advance	ga_dot	139
-x advance	nga_dot	139
-x advance	ta_dot	139
-x advance	tha_dot	139
-x advance	pa_dot	139
-x advance	ma_dot	139
-x advance	ya_dot	139
-x advance	la_dot	139
-x advance	wa_dot	139
-x advance	a_shn_dot	139
-x advance	ka_shn_dot	139
-x advance	ca_shn_dot	139
-x advance	tha_shn_dot	139
-x advance	ga_khm_dot	139
-x advance	ca_khm_dot	139
-x advance	cha_khm_dot	139
-x advance	ja_khm_dot	139
-x advance	jha_khm_dot	139
-x advance	tta_khm_dot	139
-x advance	na_khm_dot	139
-x advance	sa_khm_dot	139
-x advance	fa_khm_dot	139
-
-lookup end
-
-
-lookup	11	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	209
-x advance	kha	209
-x advance	ga	209
-x advance	gha	209
-x advance	nga	209
-x advance	ca	209
-x advance	cha	209
-x advance	ja	209
-x advance	nya	209
-x advance	nnya	209
-x advance	ttha	209
-x advance	ddha	209
-x advance	nna	209
-x advance	ta	209
-x advance	tha	209
-x advance	da	209
-x advance	dha	209
-x advance	na	209
-x advance	pa	209
-x advance	pha	209
-x advance	ba	209
-x advance	bha	209
-x advance	ma	209
-x advance	ya	209
-x advance	la	209
-x advance	wa	209
-x advance	sa	209
-x advance	ha	209
-x advance	a_m	209
-x advance	a_shn	209
-x advance	i_m	209
-x advance	e_m	209
-x advance	great_sa	209
-x advance	sha_skt	209
-x advance	ssa_skt	209
-x advance	vocR_skt	209
-x advance	vocRR_skt	209
-x advance	vocL_skt	209
-x advance	vocLL_skt	209
-x advance	nga_mon	209
-x advance	jha_mon	209
-x advance	bba_mon	209
-x advance	sha_skn	209
-x advance	tha_wpk	209
-x advance	pwa_wpk	209
-x advance	nna_epk	209
-x advance	ka_shn	209
-x advance	kha_shn	209
-x advance	ga_shn	209
-x advance	ca_shn	209
-x advance	za_shn	209
-x advance	da_shn	209
-x advance	na_shn	209
-x advance	pha_shn	209
-x advance	ba_shn	209
-x advance	tha_shn	209
-x advance	ha_shn	209
-x advance	fa_rpg	209
-x advance	ga_khm	209
-x advance	ca_khm	209
-x advance	cha_khm	209
-x advance	ja_khm	209
-x advance	jha_khm	209
-x advance	nya_khm	209
-x advance	tta_khm	209
-x advance	ttha_khm	209
-x advance	dda_khm	209
-x advance	ddha_khm	209
-x advance	dha_khm	209
-x advance	na_khm	209
-x advance	sa_khm	209
-x advance	hha_khm	209
-x advance	fa_khm	209
-x advance	xa_khm	209
-x advance	za_khm	209
-x advance	ra_khm	209
-x advance	nnya.notail	209
-x advance	na.alt	209
-x advance	uni25CC	209
-x advance	cha_shw	209
-x advance	sha_shw	209
-x advance	gha_shn	209
-x advance	cha_shn	209
-x advance	jha_shn	209
-x advance	nna_shn	209
-x advance	bha_shn	209
-x advance	nya_tlg	209
-x advance	fa_tlg	209
-x advance	ga_tlg	209
-x advance	gha_tlg	209
-x advance	ja_tlg	209
-x advance	sa_tlg	209
-x advance	dda_tlg	209
-x advance	ddha_tlg	209
-x advance	nna_tlg	209
-x advance	lla_tlg	209
-x advance	da_tlg	209
-x advance	dha_tlg	209
-x advance	ba_tlg	209
-x advance	bha_tlg	209
-x advance	ka_dot	209
-x advance	ga_dot	209
-x advance	nga_dot	209
-x advance	ta_dot	209
-x advance	tha_dot	209
-x advance	pa_dot	209
-x advance	ma_dot	209
-x advance	ya_dot	209
-x advance	la_dot	209
-x advance	wa_dot	209
-x advance	a_shn_dot	209
-x advance	ka_shn_dot	209
-x advance	ca_shn_dot	209
-x advance	tha_shn_dot	209
-x advance	ga_khm_dot	209
-x advance	ca_khm_dot	209
-x advance	cha_khm_dot	209
-x advance	ja_khm_dot	209
-x advance	jha_khm_dot	209
-x advance	tta_khm_dot	209
-x advance	na_khm_dot	209
-x advance	sa_khm_dot	209
-x advance	fa_khm_dot	209
-
-lookup end
-
-
-lookup	12	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	240
-x advance	kha	240
-x advance	ga	240
-x advance	gha	240
-x advance	nga	240
-x advance	ca	240
-x advance	cha	240
-x advance	ja	240
-x advance	nya	240
-x advance	nnya	240
-x advance	ttha	240
-x advance	ddha	240
-x advance	nna	240
-x advance	ta	240
-x advance	tha	240
-x advance	da	240
-x advance	dha	240
-x advance	na	240
-x advance	pa	240
-x advance	pha	240
-x advance	ba	240
-x advance	bha	240
-x advance	ma	240
-x advance	ya	240
-x advance	la	240
-x advance	wa	240
-x advance	sa	240
-x advance	ha	240
-x advance	a_m	240
-x advance	a_shn	240
-x advance	i_m	240
-x advance	e_m	240
-x advance	great_sa	240
-x advance	sha_skt	240
-x advance	ssa_skt	240
-x advance	vocR_skt	240
-x advance	vocRR_skt	240
-x advance	vocL_skt	240
-x advance	vocLL_skt	240
-x advance	nga_mon	240
-x advance	jha_mon	240
-x advance	bba_mon	240
-x advance	sha_skn	240
-x advance	tha_wpk	240
-x advance	pwa_wpk	240
-x advance	nna_epk	240
-x advance	ka_shn	240
-x advance	kha_shn	240
-x advance	ga_shn	240
-x advance	ca_shn	240
-x advance	za_shn	240
-x advance	da_shn	240
-x advance	na_shn	240
-x advance	pha_shn	240
-x advance	ba_shn	240
-x advance	tha_shn	240
-x advance	ha_shn	240
-x advance	fa_rpg	240
-x advance	ga_khm	240
-x advance	ca_khm	240
-x advance	cha_khm	240
-x advance	ja_khm	240
-x advance	jha_khm	240
-x advance	nya_khm	240
-x advance	tta_khm	240
-x advance	ttha_khm	240
-x advance	dda_khm	240
-x advance	ddha_khm	240
-x advance	dha_khm	240
-x advance	na_khm	240
-x advance	sa_khm	240
-x advance	hha_khm	240
-x advance	fa_khm	240
-x advance	xa_khm	240
-x advance	za_khm	240
-x advance	ra_khm	240
-x advance	nnya.notail	240
-x advance	na.alt	240
-x advance	uni25CC	240
-x advance	cha_shw	240
-x advance	sha_shw	240
-x advance	gha_shn	240
-x advance	cha_shn	240
-x advance	jha_shn	240
-x advance	nna_shn	240
-x advance	bha_shn	240
-x advance	nya_tlg	240
-x advance	fa_tlg	240
-x advance	ga_tlg	240
-x advance	gha_tlg	240
-x advance	ja_tlg	240
-x advance	sa_tlg	240
-x advance	dda_tlg	240
-x advance	ddha_tlg	240
-x advance	nna_tlg	240
-x advance	lla_tlg	240
-x advance	da_tlg	240
-x advance	dha_tlg	240
-x advance	ba_tlg	240
-x advance	bha_tlg	240
-x advance	ka_dot	240
-x advance	ga_dot	240
-x advance	nga_dot	240
-x advance	ta_dot	240
-x advance	tha_dot	240
-x advance	pa_dot	240
-x advance	ma_dot	240
-x advance	ya_dot	240
-x advance	la_dot	240
-x advance	wa_dot	240
-x advance	a_shn_dot	240
-x advance	ka_shn_dot	240
-x advance	ca_shn_dot	240
-x advance	tha_shn_dot	240
-x advance	ga_khm_dot	240
-x advance	ca_khm_dot	240
-x advance	cha_khm_dot	240
-x advance	ja_khm_dot	240
-x advance	jha_khm_dot	240
-x advance	tta_khm_dot	240
-x advance	na_khm_dot	240
-x advance	sa_khm_dot	240
-x advance	fa_khm_dot	240
-
-lookup end
-
-
-lookup	13	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	262
-x advance	kha	262
-x advance	ga	262
-x advance	gha	262
-x advance	nga	262
-x advance	ca	262
-x advance	cha	262
-x advance	ja	262
-x advance	nya	262
-x advance	nnya	262
-x advance	ttha	262
-x advance	ddha	262
-x advance	nna	262
-x advance	ta	262
-x advance	tha	262
-x advance	da	262
-x advance	dha	262
-x advance	na	262
-x advance	pa	262
-x advance	pha	262
-x advance	ba	262
-x advance	bha	262
-x advance	ma	262
-x advance	ya	262
-x advance	la	262
-x advance	wa	262
-x advance	sa	262
-x advance	ha	262
-x advance	a_m	262
-x advance	a_shn	262
-x advance	i_m	262
-x advance	e_m	262
-x advance	great_sa	262
-x advance	sha_skt	262
-x advance	ssa_skt	262
-x advance	vocR_skt	262
-x advance	vocRR_skt	262
-x advance	vocL_skt	262
-x advance	vocLL_skt	262
-x advance	nga_mon	262
-x advance	jha_mon	262
-x advance	bba_mon	262
-x advance	sha_skn	262
-x advance	tha_wpk	262
-x advance	pwa_wpk	262
-x advance	nna_epk	262
-x advance	ka_shn	262
-x advance	kha_shn	262
-x advance	ga_shn	262
-x advance	ca_shn	262
-x advance	za_shn	262
-x advance	da_shn	262
-x advance	na_shn	262
-x advance	pha_shn	262
-x advance	ba_shn	262
-x advance	tha_shn	262
-x advance	ha_shn	262
-x advance	fa_rpg	262
-x advance	ga_khm	262
-x advance	ca_khm	262
-x advance	cha_khm	262
-x advance	ja_khm	262
-x advance	jha_khm	262
-x advance	nya_khm	262
-x advance	tta_khm	262
-x advance	ttha_khm	262
-x advance	dda_khm	262
-x advance	ddha_khm	262
-x advance	dha_khm	262
-x advance	na_khm	262
-x advance	sa_khm	262
-x advance	hha_khm	262
-x advance	fa_khm	262
-x advance	xa_khm	262
-x advance	za_khm	262
-x advance	ra_khm	262
-x advance	nnya.notail	262
-x advance	na.alt	262
-x advance	uni25CC	262
-x advance	cha_shw	262
-x advance	sha_shw	262
-x advance	gha_shn	262
-x advance	cha_shn	262
-x advance	jha_shn	262
-x advance	nna_shn	262
-x advance	bha_shn	262
-x advance	nya_tlg	262
-x advance	fa_tlg	262
-x advance	ga_tlg	262
-x advance	gha_tlg	262
-x advance	ja_tlg	262
-x advance	sa_tlg	262
-x advance	dda_tlg	262
-x advance	ddha_tlg	262
-x advance	nna_tlg	262
-x advance	lla_tlg	262
-x advance	da_tlg	262
-x advance	dha_tlg	262
-x advance	ba_tlg	262
-x advance	bha_tlg	262
-x advance	ka_dot	262
-x advance	ga_dot	262
-x advance	nga_dot	262
-x advance	ta_dot	262
-x advance	tha_dot	262
-x advance	pa_dot	262
-x advance	ma_dot	262
-x advance	ya_dot	262
-x advance	la_dot	262
-x advance	wa_dot	262
-x advance	a_shn_dot	262
-x advance	ka_shn_dot	262
-x advance	ca_shn_dot	262
-x advance	tha_shn_dot	262
-x advance	ga_khm_dot	262
-x advance	ca_khm_dot	262
-x advance	cha_khm_dot	262
-x advance	ja_khm_dot	262
-x advance	jha_khm_dot	262
-x advance	tta_khm_dot	262
-x advance	na_khm_dot	262
-x advance	sa_khm_dot	262
-x advance	fa_khm_dot	262
-
-lookup end
-
-
-lookup	14	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	jha.sub	21
-x advance	medial_ya_ha	21
-x advance	medial_ya.alt1	21
-x advance	medial_ya_wa_ha	21
-x advance	medial_ya_wa	21
-x advance	medial_ya	21
-x advance	medial_ya.alt2	21
-x advance	medial_ya_wa_ha_ovl	21
-x advance	medial_ya_wa_ovl	21
-x advance	medial_ya.alt3	21
-x advance	medial_ya_ha.alt	21
-x advance	medial_ya.alt4	21
-
-lookup end
-
-
-lookup	15	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	jha.sub	44
-x advance	medial_ya_ha	44
-x advance	medial_ya.alt1	44
-x advance	medial_ya_wa_ha	44
-x advance	medial_ya_wa	44
-x advance	medial_ya	44
-x advance	medial_ya.alt2	44
-x advance	medial_ya_wa_ha_ovl	44
-x advance	medial_ya_wa_ovl	44
-x advance	medial_ya.alt3	44
-x advance	medial_ya_ha.alt	44
-x advance	medial_ya.alt4	44
-
-lookup end
-
-
-lookup	16	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	jha.sub	142
-x advance	medial_ya_ha	142
-x advance	medial_ya.alt1	142
-x advance	medial_ya_wa_ha	142
-x advance	medial_ya_wa	142
-x advance	medial_ya	142
-x advance	medial_ya.alt2	142
-x advance	medial_ya_wa_ha_ovl	142
-x advance	medial_ya_wa_ovl	142
-x advance	medial_ya.alt3	142
-x advance	medial_ya_ha.alt	142
-x advance	medial_ya.alt4	142
-
-lookup end
-
-
-lookup	17	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	jha.sub	98
-x advance	medial_ya_ha	98
-x advance	medial_ya.alt1	98
-x advance	medial_ya_wa_ha	98
-x advance	medial_ya_wa	98
-x advance	medial_ya	98
-x advance	medial_ya.alt2	98
-x advance	medial_ya_wa_ha_ovl	98
-x advance	medial_ya_wa_ovl	98
-x advance	medial_ya.alt3	98
-x advance	medial_ya_ha.alt	98
-x advance	medial_ya.alt4	98
-
-lookup end
-
-
-lookup	18	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	jha.sub	166
-x advance	medial_ya_ha	166
-x advance	medial_ya.alt1	166
-x advance	medial_ya_wa_ha	166
-x advance	medial_ya_wa	166
-x advance	medial_ya	166
-x advance	medial_ya.alt2	166
-x advance	medial_ya_wa_ha_ovl	166
-x advance	medial_ya_wa_ovl	166
-x advance	medial_ya.alt3	166
-x advance	medial_ya_ha.alt	166
-x advance	medial_ya.alt4	166
-
-lookup end
-
-
-lookup	19	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	jha.sub	197
-x advance	medial_ya_ha	197
-x advance	medial_ya.alt1	197
-x advance	medial_ya_wa_ha	197
-x advance	medial_ya_wa	197
-x advance	medial_ya	197
-x advance	medial_ya.alt2	197
-x advance	medial_ya_wa_ha_ovl	197
-x advance	medial_ya_wa_ovl	197
-x advance	medial_ya.alt3	197
-x advance	medial_ya_ha.alt	197
-x advance	medial_ya.alt4	197
-
-lookup end
-
-
-lookup	20	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	jha.sub	44
-x advance	medial_ya_ha	44
-x advance	medial_ya.alt1	44
-x advance	medial_ya_wa_ha	44
-x advance	medial_ya_wa	44
-x advance	medial_ya	44
-x advance	medial_ya.alt2	44
-x advance	medial_ya_wa_ha_ovl	44
-x advance	medial_ya_wa_ovl	44
-x advance	medial_ya.alt3	44
-x advance	medial_ya_ha.alt	44
-x advance	medial_ya.alt4	44
-
-lookup end
-
-
-lookup	21	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	105
-x advance	kha	105
-x advance	ga	105
-x advance	gha	105
-x advance	nga	105
-x advance	ca	105
-x advance	cha	105
-x advance	ja	105
-x advance	nya	105
-x advance	nnya	105
-x advance	ttha	105
-x advance	ddha	105
-x advance	nna	105
-x advance	ta	105
-x advance	tha	105
-x advance	da	105
-x advance	dha	105
-x advance	na	105
-x advance	pa	105
-x advance	pha	105
-x advance	ba	105
-x advance	bha	105
-x advance	ma	105
-x advance	ya	105
-x advance	la	105
-x advance	wa	105
-x advance	sa	105
-x advance	ha	105
-x advance	a_m	105
-x advance	a_shn	105
-x advance	i_m	105
-x advance	e_m	105
-x advance	great_sa	105
-x advance	sha_skt	105
-x advance	ssa_skt	105
-x advance	vocR_skt	105
-x advance	vocRR_skt	105
-x advance	vocL_skt	105
-x advance	vocLL_skt	105
-x advance	nga_mon	105
-x advance	jha_mon	105
-x advance	bba_mon	105
-x advance	sha_skn	105
-x advance	tha_wpk	105
-x advance	pwa_wpk	105
-x advance	nna_epk	105
-x advance	ka_shn	105
-x advance	kha_shn	105
-x advance	ga_shn	105
-x advance	ca_shn	105
-x advance	za_shn	105
-x advance	da_shn	105
-x advance	na_shn	105
-x advance	pha_shn	105
-x advance	ba_shn	105
-x advance	tha_shn	105
-x advance	ha_shn	105
-x advance	fa_rpg	105
-x advance	ga_khm	105
-x advance	ca_khm	105
-x advance	cha_khm	105
-x advance	ja_khm	105
-x advance	jha_khm	105
-x advance	nya_khm	105
-x advance	tta_khm	105
-x advance	ttha_khm	105
-x advance	dda_khm	105
-x advance	ddha_khm	105
-x advance	dha_khm	105
-x advance	na_khm	105
-x advance	sa_khm	105
-x advance	hha_khm	105
-x advance	fa_khm	105
-x advance	xa_khm	105
-x advance	za_khm	105
-x advance	ra_khm	105
-x advance	nnya.notail	105
-x advance	na.alt	105
-x advance	uni25CC	105
-x advance	cha_shw	105
-x advance	sha_shw	105
-x advance	gha_shn	105
-x advance	cha_shn	105
-x advance	jha_shn	105
-x advance	nna_shn	105
-x advance	bha_shn	105
-x advance	nya_tlg	105
-x advance	fa_tlg	105
-x advance	ga_tlg	105
-x advance	gha_tlg	105
-x advance	ja_tlg	105
-x advance	sa_tlg	105
-x advance	dda_tlg	105
-x advance	ddha_tlg	105
-x advance	nna_tlg	105
-x advance	lla_tlg	105
-x advance	da_tlg	105
-x advance	dha_tlg	105
-x advance	ba_tlg	105
-x advance	bha_tlg	105
-x advance	ka_dot	105
-x advance	ga_dot	105
-x advance	nga_dot	105
-x advance	ta_dot	105
-x advance	tha_dot	105
-x advance	pa_dot	105
-x advance	ma_dot	105
-x advance	ya_dot	105
-x advance	la_dot	105
-x advance	wa_dot	105
-x advance	a_shn_dot	105
-x advance	ka_shn_dot	105
-x advance	ca_shn_dot	105
-x advance	tha_shn_dot	105
-x advance	ga_khm_dot	105
-x advance	ca_khm_dot	105
-x advance	cha_khm_dot	105
-x advance	ja_khm_dot	105
-x advance	jha_khm_dot	105
-x advance	tta_khm_dot	105
-x advance	na_khm_dot	105
-x advance	sa_khm_dot	105
-x advance	fa_khm_dot	105
-
-lookup end
-
-
-lookup	22	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	yes
-
-x advance	jha	70
-x advance	tta	70
-x advance	ttha	70
-x advance	dda	70
-x advance	lla	70
-x advance	ii	70
-x advance	u_m	70
-x advance	uu	70
-x advance	e_mon	70
-x advance	o_m	70
-x advance	nga_mon	70
-x advance	jha_mon	70
-x advance	bbe_mon	70
-x advance	sha_skn	70
-x advance	tta_tta	70
-x advance	tta_ttha	70
-x advance	dda_dda	70
-x advance	lla_lla	70
-x advance	ssa_ttha	70
-x advance	ssa_dda	70
-x advance	cha_shw	70
-
-lookup end
-
-
-lookup	23	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	yes
-
-x advance	jha	21
-x advance	tta	21
-x advance	ttha	21
-x advance	dda	21
-x advance	lla	21
-x advance	ii	21
-x advance	u_m	21
-x advance	uu	21
-x advance	e_mon	21
-x advance	o_m	21
-x advance	nga_mon	21
-x advance	jha_mon	21
-x advance	bbe_mon	21
-x advance	sha_skn	21
-x advance	tta_tta	21
-x advance	tta_ttha	21
-x advance	dda_dda	21
-x advance	lla_lla	21
-x advance	ssa_ttha	21
-x advance	ssa_dda	21
-x advance	cha_shw	21
-
-lookup end
-
-
-lookup	24	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	yes
-
-x advance	jha	166
-x advance	tta	166
-x advance	ttha	166
-x advance	dda	166
-x advance	lla	166
-x advance	ii	166
-x advance	u_m	166
-x advance	uu	166
-x advance	e_mon	166
-x advance	o_m	166
-x advance	nga_mon	166
-x advance	jha_mon	166
-x advance	bbe_mon	166
-x advance	sha_skn	166
-x advance	tta_tta	166
-x advance	tta_ttha	166
-x advance	dda_dda	166
-x advance	lla_lla	166
-x advance	ssa_ttha	166
-x advance	ssa_dda	166
-x advance	cha_shw	166
-
-lookup end
-
-
-lookup	25	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	70
-x advance	kha	70
-x advance	ga	70
-x advance	gha	70
-x advance	nga	70
-x advance	ca	70
-x advance	cha	70
-x advance	ja	70
-x advance	nya	70
-x advance	nnya	70
-x advance	ttha	70
-x advance	ddha	70
-x advance	nna	70
-x advance	ta	70
-x advance	tha	70
-x advance	da	70
-x advance	dha	70
-x advance	na	70
-x advance	pa	70
-x advance	pha	70
-x advance	ba	70
-x advance	bha	70
-x advance	ma	70
-x advance	ya	70
-x advance	la	70
-x advance	wa	70
-x advance	sa	70
-x advance	ha	70
-x advance	a_m	70
-x advance	a_shn	70
-x advance	i_m	70
-x advance	e_m	70
-x advance	great_sa	70
-x advance	sha_skt	70
-x advance	ssa_skt	70
-x advance	vocR_skt	70
-x advance	vocRR_skt	70
-x advance	vocL_skt	70
-x advance	vocLL_skt	70
-x advance	nga_mon	70
-x advance	jha_mon	70
-x advance	bba_mon	70
-x advance	sha_skn	70
-x advance	tha_wpk	70
-x advance	pwa_wpk	70
-x advance	nna_epk	70
-x advance	ka_shn	70
-x advance	kha_shn	70
-x advance	ga_shn	70
-x advance	ca_shn	70
-x advance	za_shn	70
-x advance	da_shn	70
-x advance	na_shn	70
-x advance	pha_shn	70
-x advance	ba_shn	70
-x advance	tha_shn	70
-x advance	ha_shn	70
-x advance	fa_rpg	70
-x advance	ga_khm	70
-x advance	ca_khm	70
-x advance	cha_khm	70
-x advance	ja_khm	70
-x advance	jha_khm	70
-x advance	nya_khm	70
-x advance	tta_khm	70
-x advance	ttha_khm	70
-x advance	dda_khm	70
-x advance	ddha_khm	70
-x advance	dha_khm	70
-x advance	na_khm	70
-x advance	sa_khm	70
-x advance	hha_khm	70
-x advance	fa_khm	70
-x advance	xa_khm	70
-x advance	za_khm	70
-x advance	ra_khm	70
-x advance	nnya.notail	70
-x advance	na.alt	70
-x advance	uni25CC	70
-x advance	cha_shw	70
-x advance	sha_shw	70
-x advance	gha_shn	70
-x advance	cha_shn	70
-x advance	jha_shn	70
-x advance	nna_shn	70
-x advance	bha_shn	70
-x advance	nya_tlg	70
-x advance	fa_tlg	70
-x advance	ga_tlg	70
-x advance	gha_tlg	70
-x advance	ja_tlg	70
-x advance	sa_tlg	70
-x advance	dda_tlg	70
-x advance	ddha_tlg	70
-x advance	nna_tlg	70
-x advance	lla_tlg	70
-x advance	da_tlg	70
-x advance	dha_tlg	70
-x advance	ba_tlg	70
-x advance	bha_tlg	70
-x advance	ka_dot	70
-x advance	ga_dot	70
-x advance	nga_dot	70
-x advance	ta_dot	70
-x advance	tha_dot	70
-x advance	pa_dot	70
-x advance	ma_dot	70
-x advance	ya_dot	70
-x advance	la_dot	70
-x advance	wa_dot	70
-x advance	a_shn_dot	70
-x advance	ka_shn_dot	70
-x advance	ca_shn_dot	70
-x advance	tha_shn_dot	70
-x advance	ga_khm_dot	70
-x advance	ca_khm_dot	70
-x advance	cha_khm_dot	70
-x advance	ja_khm_dot	70
-x advance	jha_khm_dot	70
-x advance	tta_khm_dot	70
-x advance	na_khm_dot	70
-x advance	sa_khm_dot	70
-x advance	fa_khm_dot	70
-
-lookup end
-
-
-lookup	26	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ka	79
-x advance	kha	79
-x advance	ga	79
-x advance	gha	79
-x advance	nga	79
-x advance	ca	79
-x advance	cha	79
-x advance	ja	79
-x advance	nya	79
-x advance	nnya	79
-x advance	ttha	79
-x advance	ddha	79
-x advance	nna	79
-x advance	ta	79
-x advance	tha	79
-x advance	da	79
-x advance	dha	79
-x advance	na	79
-x advance	pa	79
-x advance	pha	79
-x advance	ba	79
-x advance	bha	79
-x advance	ma	79
-x advance	ya	79
-x advance	la	79
-x advance	wa	79
-x advance	sa	79
-x advance	ha	79
-x advance	a_m	79
-x advance	a_shn	79
-x advance	i_m	79
-x advance	e_m	79
-x advance	great_sa	79
-x advance	sha_skt	79
-x advance	ssa_skt	79
-x advance	vocR_skt	79
-x advance	vocRR_skt	79
-x advance	vocL_skt	79
-x advance	vocLL_skt	79
-x advance	nga_mon	79
-x advance	jha_mon	79
-x advance	bba_mon	79
-x advance	sha_skn	79
-x advance	tha_wpk	79
-x advance	pwa_wpk	79
-x advance	nna_epk	79
-x advance	ka_shn	79
-x advance	kha_shn	79
-x advance	ga_shn	79
-x advance	ca_shn	79
-x advance	za_shn	79
-x advance	da_shn	79
-x advance	na_shn	79
-x advance	pha_shn	79
-x advance	ba_shn	79
-x advance	tha_shn	79
-x advance	ha_shn	79
-x advance	fa_rpg	79
-x advance	ga_khm	79
-x advance	ca_khm	79
-x advance	cha_khm	79
-x advance	ja_khm	79
-x advance	jha_khm	79
-x advance	nya_khm	79
-x advance	tta_khm	79
-x advance	ttha_khm	79
-x advance	dda_khm	79
-x advance	ddha_khm	79
-x advance	dha_khm	79
-x advance	na_khm	79
-x advance	sa_khm	79
-x advance	hha_khm	79
-x advance	fa_khm	79
-x advance	xa_khm	79
-x advance	za_khm	79
-x advance	ra_khm	79
-x advance	nnya.notail	79
-x advance	na.alt	79
-x advance	uni25CC	79
-x advance	cha_shw	79
-x advance	sha_shw	79
-x advance	gha_shn	79
-x advance	cha_shn	79
-x advance	jha_shn	79
-x advance	nna_shn	79
-x advance	bha_shn	79
-x advance	nya_tlg	79
-x advance	fa_tlg	79
-x advance	ga_tlg	79
-x advance	gha_tlg	79
-x advance	ja_tlg	79
-x advance	sa_tlg	79
-x advance	dda_tlg	79
-x advance	ddha_tlg	79
-x advance	nna_tlg	79
-x advance	lla_tlg	79
-x advance	da_tlg	79
-x advance	dha_tlg	79
-x advance	ba_tlg	79
-x advance	bha_tlg	79
-x advance	ka_dot	79
-x advance	ga_dot	79
-x advance	nga_dot	79
-x advance	ta_dot	79
-x advance	tha_dot	79
-x advance	pa_dot	79
-x advance	ma_dot	79
-x advance	ya_dot	79
-x advance	la_dot	79
-x advance	wa_dot	79
-x advance	a_shn_dot	79
-x advance	ka_shn_dot	79
-x advance	ca_shn_dot	79
-x advance	tha_shn_dot	79
-x advance	ga_khm_dot	79
-x advance	ca_khm_dot	79
-x advance	cha_khm_dot	79
-x advance	ja_khm_dot	79
-x advance	jha_khm_dot	79
-x advance	tta_khm_dot	79
-x advance	na_khm_dot	79
-x advance	sa_khm_dot	79
-x advance	fa_khm_dot	79
-
-lookup end
-
-
-lookup	27	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	_u_dot_spacing.alt	21
-x advance	_uu_dot_spacing.alt	21
-x advance	_u_dot_spacing_rsbwide.alt	21
-x advance	_uu_dot_spacing_rsbwide.alt	21
-
-lookup end
-
-
-lookup	28	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-
-x advance	ra	96
-x advance	ra.alt2	96
-
-lookup end
-
-
-lookup	29	context
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
 MarkAttachmentType	1
+
+backtrackclass definition begin
+_tall_aa_asat	1
+class definition end
 
 class definition begin
 _tall_aa_asat	1
@@ -3538,13 +170,191 @@ sa_khm_dot	2
 fa_khm_dot	2
 oe_kyh	3
 u_kyh	3
+ee_kyh	3
 _e_above_shn	3
 _f_above_shn	3
+asat_anusvara	3
+ai_dup	3
+asat_dup	3
+kinzi_ai	3
+kinzi	3
+ra_mark	3
+_i	3
+_ii	3
+_ai	3
+_ii_mon	3
+_o_mon	3
+_e_above	3
+anusvara	3
+asat	3
+saw_shn	3
+i_gkn	4
+_i_ai	4
+kinzi_asat	4
+kinzi_i	4
+kinzi_ii	4
+kinzi_ii_mon	4
+ra_asat	4
+ra_i	4
+ra_ii	4
+_i_anusvara	5
+kinzi_anusvara	5
+kinzi_i_anusvara	5
+_tall_aa	5
+_ii_anusvara	5
+kinzi_ii_anusvara	5
+class definition end
+
+lookaheadclass definition begin
+uu	1
+o_m	1
+medial_ra	1
+ra_atn	1
+medial_ra_wa	1
+medial_ra_wa.w2	1
+medial_ra_wa_tt	1
+medial_ra_wa_tt.w2	1
+medial_ra.w2	1
+medial_ra_tt	1
+medial_ra_tt.w2	1
+medial_ra_bt	1
+medial_ra_bt.w2	1
+medial_ra_bt3.w2	1
+medial_ra_bt2.w2	1
+medial_ra_tt_bt	1
+medial_ra_tt_bt.w2	1
+medial_ra_tt_bt3	1
+medial_ra_tt_bt2.w2	1
+medial_ra_wa_ha	1
+medial_ra_wa_ha.w2	1
+medial_ra_wa_ha_tt	1
+medial_ra_wa_ha_tt.w2	1
+medial_ra.w2_5	1
+medial_ra_tt.w2_5	1
+medial_ra_wa_ovl	1
+medial_ra_wa_ovl.w2	1
+medial_ra_wa_ovl_tt	1
+medial_ra_wa_ovl_tt.w2	1
+medial_ra_wa_ha_ovl	1
+medial_ra_wa_ha_ovl.w2	1
+medial_ra_wa_ha_ovl_tt	1
+medial_ra_wa_ha_ovl_tt.w2	1
+medial_ra_wa.w2_5	1
+medial_ra_wa_ovl.w2_5	1
+medial_ra_wa_ovl_tt.w2_5	1
+medial_ra_wa_ha_ovl.w2_5	1
+medial_ra_wa_ha_ovl_tt.w2_5	1
+medial_ra_wa_tt.w2_5	1
+medial_ra_wa_tt.w1_5	1
+medial_ra_wa_ha_tt.w2_5	1
+medial_ra_bt.w2_5	1
+medial_ra_tt_bt.w2_5	1
+medial_ra.w3	1
+medial_ra_tt.w3	1
+medial_ra_bt.w3	1
+medial_ra_tt_bt.w3	1
+medial_ra.w1_5	1
+medial_ra_tt.w1_5	1
+medial_ra_bt.w1_5	1
+medial_ra_tt_bt.w1_5	1
+medial_ra_bt3	1
+medial_ra_wa_ha_tt.w1_5	1
+medial_ra_wa_ha.w2_5	1
+medial_ra_wa.w3	1
+medial_ra_wa_ha.w3	1
+medial_ra_bt2.w1_5	1
+medial_ra_bt2.w2_5	1
+medial_ra_tt_bt2.w2_5	1
+medial_ra_bt2.w3	1
+medial_ra_tt_bt2.w3	1
+medial_ra_wa.w1_5	1
+medial_ra_wa_ha.w1_5	1
+medial_ra_wa_ovl.w1_5	1
+medial_ra_wa_ha_ovl.w1_5	1
+medial_ra_wa_ha_ovl_tt.w1_5	1
+medial_ra_wa_tt.w3	1
+medial_ra_wa_ha_tt.w3	1
+medial_ra_wa_ovl.w3	1
+medial_ra_wa_ovl_tt.w3	1
+medial_ra_wa_ha_ovl.w3	1
+medial_ra_wa_ha_ovl_tt.w3	1
+medial_ra_wa_ovl_tt.w1_5	1
+medial_ra_tt_bt3.w2	1
+ra_atn_dot	1
+kha	2
+ga	2
+nga	2
+ca	2
+ja	2
+nya	2
+tta	2
+ttha	2
+dda	2
+ddha	2
+da	2
+dha	2
+na	2
+pa	2
+pha	2
+ma	2
+ra	2
+wa	2
+lla	2
+u_m	2
+e_m	2
+sha_skt	2
+ssa_skt	2
+vocL_skt	2
+vocLL_skt	2
+nga_mon	2
+bba_mon	2
+bbe_mon	2
+sha_skn	2
+hathi_skn	2
+tha_wpk	2
+pwa_wpk	2
+ka_shn	2
+kha_shn	2
+ga_shn	2
+ba_shn	2
+ha_shn	2
+fa_rpg	2
+na_khm	2
+nya.narrow	2
+nya.notail	2
+lla.notail	2
+tta_tta	2
+tta_ttha	2
+tta.alt	2
+dda_dda	2
+dda_ddha	2
+na.alt	2
+lla_lla	2
+ssa_ttha	2
+uni25CC	2
+gha_shn	2
+nna_tlg	2
+ba_tlg	2
+ga_dot	2
+nga_dot	2
+pa_dot	2
+ma_dot	2
+wa_dot	2
+ka_shn_dot	2
+na_khm_dot	2
+oe_kyh	3
+_e_above_shn	3
+_f_above_shn	3
+asat_anusvara	3
+ai_dup	3
+asat_dup	3
 _i_anusvara	3
 kinzi_ai	3
 kinzi_anusvara	3
 kinzi	3
 ra_mark	3
+_i	3
+_ii	3
 _ai	3
 _ii_mon	3
 _o_mon	3
@@ -3554,7 +364,9 @@ asat	3
 _ii_anusvara	3
 saw_shn	3
 i_gkn	4
+u_kyh	4
 ee_kyh	4
+cha_khm	4
 _i_ai	4
 kinzi_asat	4
 kinzi_i_anusvara	4
@@ -3565,272 +377,661 @@ ra_asat	4
 ra_i	4
 ra_ii	4
 kinzi_ii_anusvara	4
-uu	5
-o_m	5
-medial_ra	5
-ra_atn	5
-medial_ra_wa	5
-medial_ra_wa.w2	5
-medial_ra_wa_tt	5
-medial_ra_wa_tt.w2	5
-medial_ra.w2	5
-medial_ra_tt	5
-medial_ra_tt.w2	5
-medial_ra_bt	5
-medial_ra_bt.w2	5
-medial_ra_bt3.w2	5
-medial_ra_bt2.w2	5
-medial_ra_tt_bt	5
-medial_ra_tt_bt.w2	5
-medial_ra_tt_bt3	5
-medial_ra_tt_bt2.w2	5
-medial_ra_wa_ha	5
-medial_ra_wa_ha.w2	5
-medial_ra_wa_ha_tt	5
-medial_ra_wa_ha_tt.w2	5
-medial_ra.w2_5	5
-medial_ra_tt.w2_5	5
-medial_ra_wa_ovl	5
-medial_ra_wa_ovl.w2	5
-medial_ra_wa_ovl_tt	5
-medial_ra_wa_ovl_tt.w2	5
-medial_ra_wa_ha_ovl	5
-medial_ra_wa_ha_ovl.w2	5
-medial_ra_wa_ha_ovl_tt	5
-medial_ra_wa_ha_ovl_tt.w2	5
-medial_ra_wa.w2_5	5
-medial_ra_wa_ovl.w2_5	5
-medial_ra_wa_ovl_tt.w2_5	5
-medial_ra_wa_ha_ovl.w2_5	5
-medial_ra_wa_ha_ovl_tt.w2_5	5
-medial_ra_wa_tt.w2_5	5
-medial_ra_wa_tt.w1_5	5
-medial_ra_wa_ha_tt.w2_5	5
-medial_ra_bt.w2_5	5
-medial_ra_tt_bt.w2_5	5
-medial_ra.w3	5
-medial_ra_tt.w3	5
-medial_ra_bt.w3	5
-medial_ra_tt_bt.w3	5
-medial_ra.w1_5	5
-medial_ra_tt.w1_5	5
-medial_ra_bt.w1_5	5
-medial_ra_tt_bt.w1_5	5
-medial_ra_bt3	5
-medial_ra_wa_ha_tt.w1_5	5
-medial_ra_wa_ha.w2_5	5
-medial_ra_wa.w3	5
-medial_ra_wa_ha.w3	5
-medial_ra_bt2.w1_5	5
-medial_ra_bt2.w2_5	5
-medial_ra_tt_bt2.w2_5	5
-medial_ra_bt2.w3	5
-medial_ra_tt_bt2.w3	5
-medial_ra_wa.w1_5	5
-medial_ra_wa_ha.w1_5	5
-medial_ra_wa_ovl.w1_5	5
-medial_ra_wa_ha_ovl.w1_5	5
-medial_ra_wa_ha_ovl_tt.w1_5	5
-medial_ra_wa_tt.w3	5
-medial_ra_wa_ha_tt.w3	5
-medial_ra_wa_ovl.w3	5
-medial_ra_wa_ovl_tt.w3	5
-medial_ra_wa_ha_ovl.w3	5
-medial_ra_wa_ha_ovl_tt.w3	5
-medial_ra_wa_ovl_tt.w1_5	5
-medial_ra_tt_bt3.w2	5
-ra_atn_dot	5
-_i	6
-_ii	6
-_tall_aa	7
-tall_aa_anusvara	7
-tall_aa_ai	7
+cha_khm_dot	4
+_tall_aa_asat	5
+_tall_aa	5
+tall_aa_anusvara	5
+tall_aa_ai	5
 class definition end
 
-class	1, 2, 3	1, 30
-class	1, 2, 6	1, 30
-class	1, 2, 4	1, 31
-class	1, 5	1, 31
-class	2, 6, 7	1, 32
+class-chain		1	2, 3	1, 6
+class-chain		1	2, 4	1, 7
+class-chain		1	1	1, 5
+class-chain		2, 3	5	1, 3
+class-chain		2, 4	5	1, 1
+class-chain		2, 5	5	1, 2
+class-chain		2, 5	1	1, 4
 
 lookup end
 
 
-lookup	30	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-MarkAttachmentType	1
-
-x advance	_tall_aa_asat	197
-
-lookup end
-
-
-lookup	31	single
-
-RightToLeft	no
-IgnoreBaseGlyphs	no
-IgnoreLigatures	no
-IgnoreMarks	no
-MarkAttachmentType	1
-
-x advance	_tall_aa_asat	253
-
-lookup end
-
-
-lookup	32	single
+lookup	1	single
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
 IgnoreLigatures	no
 IgnoreMarks	no
 
-x advance	ka	120
-x advance	kha	120
-x advance	ga	120
-x advance	gha	120
-x advance	nga	120
-x advance	ca	120
-x advance	cha	120
-x advance	ja	120
-x advance	nya	120
-x advance	nnya	120
-x advance	tta	120
-x advance	ttha	120
-x advance	dda	120
-x advance	ddha	120
-x advance	nna	120
-x advance	ta	120
-x advance	tha	120
-x advance	da	120
-x advance	dha	120
-x advance	na	120
-x advance	pa	120
-x advance	pha	120
-x advance	ba	120
-x advance	bha	120
-x advance	ma	120
-x advance	ya	120
-x advance	ra	120
-x advance	la	120
-x advance	wa	120
-x advance	sa	120
-x advance	ha	120
-x advance	lla	120
-x advance	a_m	120
-x advance	a_shn	120
-x advance	i_m	120
-x advance	e_m	120
-x advance	great_sa	120
-x advance	sha_skt	120
-x advance	ssa_skt	120
-x advance	vocR_skt	120
-x advance	vocRR_skt	120
-x advance	vocL_skt	120
-x advance	vocLL_skt	120
-x advance	nga_mon	120
-x advance	jha_mon	120
-x advance	bba_mon	120
-x advance	bbe_mon	120
-x advance	sha_skn	120
-x advance	tha_wpk	120
-x advance	pwa_wpk	120
-x advance	nna_epk	120
-x advance	ywa_epk	120
-x advance	ghwa_epk	120
-x advance	ka_shn	120
-x advance	kha_shn	120
-x advance	ga_shn	120
-x advance	ca_shn	120
-x advance	za_shn	120
-x advance	nya_shn	120
-x advance	da_shn	120
-x advance	na_shn	120
-x advance	pha_shn	120
-x advance	fa_shn	120
-x advance	ba_shn	120
-x advance	tha_shn	120
-x advance	ha_shn	120
-x advance	fa_rpg	120
-x advance	ga_khm	120
-x advance	ca_khm	120
-x advance	cha_khm	120
-x advance	ja_khm	120
-x advance	jha_khm	120
-x advance	nya_khm	120
-x advance	tta_khm	120
-x advance	ttha_khm	120
-x advance	dda_khm	120
-x advance	ddha_khm	120
-x advance	dha_khm	120
-x advance	na_khm	120
-x advance	sa_khm	120
-x advance	ha_khm	120
-x advance	hha_khm	120
-x advance	fa_khm	120
-x advance	xa_khm	120
-x advance	za_khm	120
-x advance	ra_khm	120
-x advance	nya.notail	120
-x advance	nnya.notail	120
-x advance	lla.notail	120
-x advance	tta.alt	120
-x advance	na.alt	120
-x advance	uni25CC	120
-x advance	cha_shw	120
-x advance	sha_shw	120
-x advance	gha_shn	120
-x advance	cha_shn	120
-x advance	jha_shn	120
-x advance	nna_shn	120
-x advance	bha_shn	120
-x advance	nya_tlg	120
-x advance	fa_tlg	120
-x advance	ga_tlg	120
-x advance	gha_tlg	120
-x advance	ja_tlg	120
-x advance	sa_tlg	120
-x advance	dda_tlg	120
-x advance	ddha_tlg	120
-x advance	nna_tlg	120
-x advance	lla_tlg	120
-x advance	da_tlg	120
-x advance	dha_tlg	120
-x advance	ba_tlg	120
-x advance	bha_tlg	120
-x advance	ka_dot	120
-x advance	ga_dot	120
-x advance	nga_dot	120
-x advance	ta_dot	120
-x advance	tha_dot	120
-x advance	pa_dot	120
-x advance	ma_dot	120
-x advance	ya_dot	120
-x advance	la_dot	120
-x advance	wa_dot	120
-x advance	a_shn_dot	120
-x advance	ka_shn_dot	120
-x advance	ca_shn_dot	120
-x advance	nya_shn_dot	120
-x advance	tha_shn_dot	120
-x advance	ga_khm_dot	120
-x advance	ca_khm_dot	120
-x advance	cha_khm_dot	120
-x advance	ja_khm_dot	120
-x advance	jha_khm_dot	120
-x advance	tta_khm_dot	120
-x advance	na_khm_dot	120
-x advance	sa_khm_dot	120
-x advance	fa_khm_dot	120
+x advance	ka	230
+x advance	kha	230
+x advance	ga	230
+x advance	gha	230
+x advance	nga	230
+x advance	ca	230
+x advance	cha	230
+x advance	ja	230
+x advance	jha	230
+x advance	nya	230
+x advance	nnya	230
+x advance	tta	230
+x advance	ttha	230
+x advance	dda	230
+x advance	ddha	230
+x advance	nna	230
+x advance	ta	230
+x advance	tha	230
+x advance	da	230
+x advance	dha	230
+x advance	na	230
+x advance	pa	230
+x advance	pha	230
+x advance	ba	230
+x advance	bha	230
+x advance	ma	230
+x advance	ya	230
+x advance	ra	230
+x advance	la	230
+x advance	wa	230
+x advance	sa	230
+x advance	ha	230
+x advance	lla	230
+x advance	a_m	230
+x advance	a_shn	230
+x advance	e_m	230
+x advance	great_sa	230
+x advance	sha_skt	230
+x advance	ssa_skt	230
+x advance	vocR_skt	230
+x advance	vocRR_skt	230
+x advance	vocL_skt	230
+x advance	vocLL_skt	230
+x advance	nga_mon	230
+x advance	jha_mon	230
+x advance	bba_mon	230
+x advance	bbe_mon	230
+x advance	sha_skn	230
+x advance	tha_wpk	230
+x advance	pwa_wpk	230
+x advance	nna_epk	230
+x advance	ywa_epk	230
+x advance	ghwa_epk	230
+x advance	ka_shn	230
+x advance	kha_shn	230
+x advance	ga_shn	230
+x advance	ca_shn	230
+x advance	za_shn	230
+x advance	nya_shn	230
+x advance	da_shn	230
+x advance	na_shn	230
+x advance	pha_shn	230
+x advance	fa_shn	230
+x advance	ba_shn	230
+x advance	tha_shn	230
+x advance	ha_shn	230
+x advance	fa_rpg	230
+x advance	ga_khm	230
+x advance	ca_khm	230
+x advance	cha_khm	230
+x advance	ja_khm	230
+x advance	jha_khm	230
+x advance	nya_khm	230
+x advance	tta_khm	230
+x advance	ttha_khm	230
+x advance	dda_khm	230
+x advance	ddha_khm	230
+x advance	dha_khm	230
+x advance	na_khm	230
+x advance	sa_khm	230
+x advance	ha_khm	230
+x advance	hha_khm	230
+x advance	fa_khm	230
+x advance	xa_khm	230
+x advance	za_khm	230
+x advance	ra_khm	230
+x advance	ra_atn	230
+x advance	nya.notail	230
+x advance	nnya.notail	230
+x advance	lla.notail	230
+x advance	tta.alt	230
+x advance	na.alt	230
+x advance	uni25CC	230
+x advance	cha_shw	230
+x advance	sha_shw	230
+x advance	gha_shn	230
+x advance	cha_shn	230
+x advance	jha_shn	230
+x advance	nna_shn	230
+x advance	bha_shn	230
+x advance	nya_tlg	230
+x advance	fa_tlg	230
+x advance	ga_tlg	230
+x advance	gha_tlg	230
+x advance	ja_tlg	230
+x advance	sa_tlg	230
+x advance	dda_tlg	230
+x advance	ddha_tlg	230
+x advance	nna_tlg	230
+x advance	lla_tlg	230
+x advance	da_tlg	230
+x advance	dha_tlg	230
+x advance	ba_tlg	230
+x advance	bha_tlg	230
+x advance	ka_dot	230
+x advance	ga_dot	230
+x advance	nga_dot	230
+x advance	ta_dot	230
+x advance	tha_dot	230
+x advance	pa_dot	230
+x advance	ma_dot	230
+x advance	ya_dot	230
+x advance	la_dot	230
+x advance	wa_dot	230
+x advance	a_shn_dot	230
+x advance	ka_shn_dot	230
+x advance	ca_shn_dot	230
+x advance	nya_shn_dot	230
+x advance	tha_shn_dot	230
+x advance	ga_khm_dot	230
+x advance	ca_khm_dot	230
+x advance	cha_khm_dot	230
+x advance	ja_khm_dot	230
+x advance	jha_khm_dot	230
+x advance	tta_khm_dot	230
+x advance	na_khm_dot	230
+x advance	sa_khm_dot	230
+x advance	fa_khm_dot	230
+x advance	ra_atn_dot	230
 
 lookup end
 
 
-lookup	33	mark to base
+lookup	2	single
+
+RightToLeft	no
+IgnoreBaseGlyphs	no
+IgnoreLigatures	no
+IgnoreMarks	no
+
+x advance	ka	290
+x advance	kha	290
+x advance	ga	290
+x advance	gha	290
+x advance	nga	290
+x advance	ca	290
+x advance	cha	290
+x advance	ja	290
+x advance	jha	290
+x advance	nya	290
+x advance	nnya	290
+x advance	tta	290
+x advance	ttha	290
+x advance	dda	290
+x advance	ddha	290
+x advance	nna	290
+x advance	ta	290
+x advance	tha	290
+x advance	da	290
+x advance	dha	290
+x advance	na	290
+x advance	pa	290
+x advance	pha	290
+x advance	ba	290
+x advance	bha	290
+x advance	ma	290
+x advance	ya	290
+x advance	ra	290
+x advance	la	290
+x advance	wa	290
+x advance	sa	290
+x advance	ha	290
+x advance	lla	290
+x advance	a_m	290
+x advance	a_shn	290
+x advance	e_m	290
+x advance	great_sa	290
+x advance	sha_skt	290
+x advance	ssa_skt	290
+x advance	vocR_skt	290
+x advance	vocRR_skt	290
+x advance	vocL_skt	290
+x advance	vocLL_skt	290
+x advance	nga_mon	290
+x advance	jha_mon	290
+x advance	bba_mon	290
+x advance	bbe_mon	290
+x advance	sha_skn	290
+x advance	tha_wpk	290
+x advance	pwa_wpk	290
+x advance	nna_epk	290
+x advance	ywa_epk	290
+x advance	ghwa_epk	290
+x advance	ka_shn	290
+x advance	kha_shn	290
+x advance	ga_shn	290
+x advance	ca_shn	290
+x advance	za_shn	290
+x advance	nya_shn	290
+x advance	da_shn	290
+x advance	na_shn	290
+x advance	pha_shn	290
+x advance	fa_shn	290
+x advance	ba_shn	290
+x advance	tha_shn	290
+x advance	ha_shn	290
+x advance	fa_rpg	290
+x advance	ga_khm	290
+x advance	ca_khm	290
+x advance	cha_khm	290
+x advance	ja_khm	290
+x advance	jha_khm	290
+x advance	nya_khm	290
+x advance	tta_khm	290
+x advance	ttha_khm	290
+x advance	dda_khm	290
+x advance	ddha_khm	290
+x advance	dha_khm	290
+x advance	na_khm	290
+x advance	sa_khm	290
+x advance	ha_khm	290
+x advance	hha_khm	290
+x advance	fa_khm	290
+x advance	xa_khm	290
+x advance	za_khm	290
+x advance	ra_khm	290
+x advance	ra_atn	290
+x advance	nya.notail	290
+x advance	nnya.notail	290
+x advance	lla.notail	290
+x advance	tta.alt	290
+x advance	na.alt	290
+x advance	uni25CC	290
+x advance	cha_shw	290
+x advance	sha_shw	290
+x advance	gha_shn	290
+x advance	cha_shn	290
+x advance	jha_shn	290
+x advance	nna_shn	290
+x advance	bha_shn	290
+x advance	nya_tlg	290
+x advance	fa_tlg	290
+x advance	ga_tlg	290
+x advance	gha_tlg	290
+x advance	ja_tlg	290
+x advance	sa_tlg	290
+x advance	dda_tlg	290
+x advance	ddha_tlg	290
+x advance	nna_tlg	290
+x advance	lla_tlg	290
+x advance	da_tlg	290
+x advance	dha_tlg	290
+x advance	ba_tlg	290
+x advance	bha_tlg	290
+x advance	ka_dot	290
+x advance	ga_dot	290
+x advance	nga_dot	290
+x advance	ta_dot	290
+x advance	tha_dot	290
+x advance	pa_dot	290
+x advance	ma_dot	290
+x advance	ya_dot	290
+x advance	la_dot	290
+x advance	wa_dot	290
+x advance	a_shn_dot	290
+x advance	ka_shn_dot	290
+x advance	ca_shn_dot	290
+x advance	nya_shn_dot	290
+x advance	tha_shn_dot	290
+x advance	ga_khm_dot	290
+x advance	ca_khm_dot	290
+x advance	cha_khm_dot	290
+x advance	ja_khm_dot	290
+x advance	jha_khm_dot	290
+x advance	tta_khm_dot	290
+x advance	na_khm_dot	290
+x advance	sa_khm_dot	290
+x advance	fa_khm_dot	290
+x advance	ra_atn_dot	290
+
+lookup end
+
+
+lookup	3	single
+
+RightToLeft	no
+IgnoreBaseGlyphs	no
+IgnoreLigatures	no
+IgnoreMarks	no
+
+x advance	ka	130
+x advance	kha	130
+x advance	ga	130
+x advance	gha	130
+x advance	nga	130
+x advance	ca	130
+x advance	cha	130
+x advance	ja	130
+x advance	jha	130
+x advance	nya	130
+x advance	nnya	130
+x advance	tta	130
+x advance	ttha	130
+x advance	dda	130
+x advance	ddha	130
+x advance	nna	130
+x advance	ta	130
+x advance	tha	130
+x advance	da	130
+x advance	dha	130
+x advance	na	130
+x advance	pa	130
+x advance	pha	130
+x advance	ba	130
+x advance	bha	130
+x advance	ma	130
+x advance	ya	130
+x advance	ra	130
+x advance	la	130
+x advance	wa	130
+x advance	sa	130
+x advance	ha	130
+x advance	lla	130
+x advance	a_m	130
+x advance	a_shn	130
+x advance	e_m	130
+x advance	great_sa	130
+x advance	sha_skt	130
+x advance	ssa_skt	130
+x advance	vocR_skt	130
+x advance	vocRR_skt	130
+x advance	vocL_skt	130
+x advance	vocLL_skt	130
+x advance	nga_mon	130
+x advance	jha_mon	130
+x advance	bba_mon	130
+x advance	bbe_mon	130
+x advance	sha_skn	130
+x advance	tha_wpk	130
+x advance	pwa_wpk	130
+x advance	nna_epk	130
+x advance	ywa_epk	130
+x advance	ghwa_epk	130
+x advance	ka_shn	130
+x advance	kha_shn	130
+x advance	ga_shn	130
+x advance	ca_shn	130
+x advance	za_shn	130
+x advance	nya_shn	130
+x advance	da_shn	130
+x advance	na_shn	130
+x advance	pha_shn	130
+x advance	fa_shn	130
+x advance	ba_shn	130
+x advance	tha_shn	130
+x advance	ha_shn	130
+x advance	fa_rpg	130
+x advance	ga_khm	130
+x advance	ca_khm	130
+x advance	cha_khm	130
+x advance	ja_khm	130
+x advance	jha_khm	130
+x advance	nya_khm	130
+x advance	tta_khm	130
+x advance	ttha_khm	130
+x advance	dda_khm	130
+x advance	ddha_khm	130
+x advance	dha_khm	130
+x advance	na_khm	130
+x advance	sa_khm	130
+x advance	ha_khm	130
+x advance	hha_khm	130
+x advance	fa_khm	130
+x advance	xa_khm	130
+x advance	za_khm	130
+x advance	ra_khm	130
+x advance	ra_atn	130
+x advance	nya.notail	130
+x advance	nnya.notail	130
+x advance	lla.notail	130
+x advance	tta.alt	130
+x advance	na.alt	130
+x advance	uni25CC	130
+x advance	cha_shw	130
+x advance	sha_shw	130
+x advance	gha_shn	130
+x advance	cha_shn	130
+x advance	jha_shn	130
+x advance	nna_shn	130
+x advance	bha_shn	130
+x advance	nya_tlg	130
+x advance	fa_tlg	130
+x advance	ga_tlg	130
+x advance	gha_tlg	130
+x advance	ja_tlg	130
+x advance	sa_tlg	130
+x advance	dda_tlg	130
+x advance	ddha_tlg	130
+x advance	nna_tlg	130
+x advance	lla_tlg	130
+x advance	da_tlg	130
+x advance	dha_tlg	130
+x advance	ba_tlg	130
+x advance	bha_tlg	130
+x advance	ka_dot	130
+x advance	ga_dot	130
+x advance	nga_dot	130
+x advance	ta_dot	130
+x advance	tha_dot	130
+x advance	pa_dot	130
+x advance	ma_dot	130
+x advance	ya_dot	130
+x advance	la_dot	130
+x advance	wa_dot	130
+x advance	a_shn_dot	130
+x advance	ka_shn_dot	130
+x advance	ca_shn_dot	130
+x advance	nya_shn_dot	130
+x advance	tha_shn_dot	130
+x advance	ga_khm_dot	130
+x advance	ca_khm_dot	130
+x advance	cha_khm_dot	130
+x advance	ja_khm_dot	130
+x advance	jha_khm_dot	130
+x advance	tta_khm_dot	130
+x advance	na_khm_dot	130
+x advance	sa_khm_dot	130
+x advance	fa_khm_dot	130
+x advance	ra_atn_dot	130
+
+lookup end
+
+
+lookup	4	single
+
+RightToLeft	no
+IgnoreBaseGlyphs	no
+IgnoreLigatures	no
+IgnoreMarks	no
+
+x advance	ka	60
+x advance	kha	60
+x advance	ga	60
+x advance	gha	60
+x advance	nga	60
+x advance	ca	60
+x advance	cha	60
+x advance	ja	60
+x advance	jha	60
+x advance	nya	60
+x advance	nnya	60
+x advance	tta	60
+x advance	ttha	60
+x advance	dda	60
+x advance	ddha	60
+x advance	nna	60
+x advance	ta	60
+x advance	tha	60
+x advance	da	60
+x advance	dha	60
+x advance	na	60
+x advance	pa	60
+x advance	pha	60
+x advance	ba	60
+x advance	bha	60
+x advance	ma	60
+x advance	ya	60
+x advance	ra	60
+x advance	la	60
+x advance	wa	60
+x advance	sa	60
+x advance	ha	60
+x advance	lla	60
+x advance	a_m	60
+x advance	a_shn	60
+x advance	e_m	60
+x advance	great_sa	60
+x advance	sha_skt	60
+x advance	ssa_skt	60
+x advance	vocR_skt	60
+x advance	vocRR_skt	60
+x advance	vocL_skt	60
+x advance	vocLL_skt	60
+x advance	nga_mon	60
+x advance	jha_mon	60
+x advance	bba_mon	60
+x advance	bbe_mon	60
+x advance	sha_skn	60
+x advance	tha_wpk	60
+x advance	pwa_wpk	60
+x advance	nna_epk	60
+x advance	ywa_epk	60
+x advance	ghwa_epk	60
+x advance	ka_shn	60
+x advance	kha_shn	60
+x advance	ga_shn	60
+x advance	ca_shn	60
+x advance	za_shn	60
+x advance	nya_shn	60
+x advance	da_shn	60
+x advance	na_shn	60
+x advance	pha_shn	60
+x advance	fa_shn	60
+x advance	ba_shn	60
+x advance	tha_shn	60
+x advance	ha_shn	60
+x advance	fa_rpg	60
+x advance	ga_khm	60
+x advance	ca_khm	60
+x advance	cha_khm	60
+x advance	ja_khm	60
+x advance	jha_khm	60
+x advance	nya_khm	60
+x advance	tta_khm	60
+x advance	ttha_khm	60
+x advance	dda_khm	60
+x advance	ddha_khm	60
+x advance	dha_khm	60
+x advance	na_khm	60
+x advance	sa_khm	60
+x advance	ha_khm	60
+x advance	hha_khm	60
+x advance	fa_khm	60
+x advance	xa_khm	60
+x advance	za_khm	60
+x advance	ra_khm	60
+x advance	ra_atn	60
+x advance	nya.notail	60
+x advance	nnya.notail	60
+x advance	lla.notail	60
+x advance	tta.alt	60
+x advance	na.alt	60
+x advance	uni25CC	60
+x advance	cha_shw	60
+x advance	sha_shw	60
+x advance	gha_shn	60
+x advance	cha_shn	60
+x advance	jha_shn	60
+x advance	nna_shn	60
+x advance	bha_shn	60
+x advance	nya_tlg	60
+x advance	fa_tlg	60
+x advance	ga_tlg	60
+x advance	gha_tlg	60
+x advance	ja_tlg	60
+x advance	sa_tlg	60
+x advance	dda_tlg	60
+x advance	ddha_tlg	60
+x advance	nna_tlg	60
+x advance	lla_tlg	60
+x advance	da_tlg	60
+x advance	dha_tlg	60
+x advance	ba_tlg	60
+x advance	bha_tlg	60
+x advance	ka_dot	60
+x advance	ga_dot	60
+x advance	nga_dot	60
+x advance	ta_dot	60
+x advance	tha_dot	60
+x advance	pa_dot	60
+x advance	ma_dot	60
+x advance	ya_dot	60
+x advance	la_dot	60
+x advance	wa_dot	60
+x advance	a_shn_dot	60
+x advance	ka_shn_dot	60
+x advance	ca_shn_dot	60
+x advance	nya_shn_dot	60
+x advance	tha_shn_dot	60
+x advance	ga_khm_dot	60
+x advance	ca_khm_dot	60
+x advance	cha_khm_dot	60
+x advance	ja_khm_dot	60
+x advance	jha_khm_dot	60
+x advance	tta_khm_dot	60
+x advance	na_khm_dot	60
+x advance	sa_khm_dot	60
+x advance	fa_khm_dot	60
+x advance	ra_atn_dot	60
+
+lookup end
+
+
+lookup	5	single
+
+RightToLeft	no
+IgnoreBaseGlyphs	no
+IgnoreLigatures	no
+IgnoreMarks	no
+
+x advance	_tall_aa_asat	210
+
+lookup end
+
+
+lookup	6	single
+
+RightToLeft	no
+IgnoreBaseGlyphs	no
+IgnoreLigatures	no
+IgnoreMarks	no
+
+x advance	_tall_aa_asat	120
+
+lookup end
+
+
+lookup	7	single
+
+RightToLeft	no
+IgnoreBaseGlyphs	no
+IgnoreLigatures	no
+IgnoreMarks	no
+
+x advance	_tall_aa_asat	205
+
+lookup end
+
+
+lookup	8	mark to base
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -4023,7 +1224,6 @@ base	lla_tlg	0	606,694
 base	da_tlg	0	588,694
 base	dha_tlg	0	591,694
 base	bha_tlg	0	606,694
-base	medial_ya.alt4	0	-2,150
 base	ka_dot	0	587,694
 base	ga_dot	0	252,694
 base	nga_dot	0	256,694
@@ -4053,7 +1253,7 @@ base	fa_khm_dot	0	415,694
 lookup end
 
 
-lookup	34	mark to base
+lookup	9	mark to base
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -4307,7 +1507,7 @@ base	ra_atn_dot	0	1008,149
 lookup end
 
 
-lookup	35	mark to base
+lookup	10	mark to base
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
@@ -4418,7 +1618,7 @@ mark	medial_ha_obl_u_dot	0	-250,127
 mark	medial_ha_obl_uu_dot	0	-288,127
 mark	medial_wa_ha_ovl	0	-243,127
 mark	medial_wa_ha_dot_ovl	0	-244,127
-mark	dot_below_shift	0	-201,127
+mark	dot_below_shift	0	-240,127
 mark	dot_below.k	0	-278,127
 mark	ga_dot.sub	0	-240,149
 mark	ga_dot.sub2	0	-292,149
@@ -4488,7 +1688,7 @@ base	eu_wpk	0	146,127
 base	ue_wpk	0	153,142
 base	tone1_wpk	0	157,127
 base	tone2_wpk	0	146,127
-base	tone3_wpk	0	227,138
+base	tone3_wpk	0	187,138
 base	tone4_wpk	0	184,127
 base	tone5_wpk	0	168,127
 base	nna_epk	0	735,127
@@ -4608,7 +1808,7 @@ base	ra_atn_dot	0	861,127
 lookup end
 
 
-lookup	36	mark to mark
+lookup	11	mark to mark
 
 RightToLeft	no
 IgnoreBaseGlyphs	no
